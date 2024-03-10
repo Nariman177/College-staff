@@ -1,0 +1,31 @@
+1. public enum AccountType { Checking, Deposit };
+        static void Main(string[] args)
+        {
+            AccountType goldAccount;
+            AccountType platinumAccount;
+            goldAccount = AccountType.Checking;
+            platinumAccount = AccountType.Deposit;
+            Console.WriteLine("The Customer Account Type is {0}", goldAccount);
+            Console.WriteLine("The Customer Account Type is {0}", platinumAccount);
+
+            Console.ReadKey();
+        }
+2.  class BankAccount
+    {
+        public enum AccountType { Checking, Deposit };
+        static void Main(string[] args)
+        {
+            AccountType goldAccount;
+            AccountType platinumAccount;
+            goldAccount.accType = AccountType.Checking;
+            goldAccount.accBal = (decimal)3200.00;
+            goldAccount.accNo = 123;
+            Console.WriteLine("*** Account Summary ***");
+            Console.WriteLine("Acct Number {0}", goldAccount.accNo);
+            Console.WriteLine("Acct Type {0}", goldAccount.accType);
+            Console.WriteLine("Acct Balance ${0}", goldAccount.accBal);
+            Console.ReadKey();
+        }
+
+    } 
+3.
