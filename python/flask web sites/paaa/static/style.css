@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body,html{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Titillium Web', sans-serif;
+  height: 100%;
+  font-family: Arial;
+  background-image: url(../img/Planetary.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
