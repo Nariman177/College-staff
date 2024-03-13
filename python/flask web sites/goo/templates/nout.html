@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Notebook</title>
+      <link rel="icon" href="{{ url_for('static', filename = 'img/logo.jpg')}}">
+    <link rel="stylesheet" href="{{ url_for('static', filename = 'css/nout.css')}}">
+    <link rel="stylesheet" href="{{ url_for('static', filename = 'css/pb.css')}}">
+    <link rel="stylesheet" href="{{ url_for('static', filename = 'css/tabs.css')}}">
+    <script src="https://kit.fontawesome.com/67d2ef7984.js" crossorigin="anonymous"></script>
+       <script src="https://kit.fontawesome.com/f6d8a5e8ce.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+
+
+  <header id="up">
+      <div class="container">
+        <div class="header_content">
+          <div id="logo">Narik<span id="logo-s">тech</span></div>
+          <ol class="ullg">
+            <li><a href="/obrat">Хабарласу</a></li>
+            <li><a href="/smart">Cмартфоны</a></li>
+            <li><a href="/">Басты бет</a></li>
+            <li><a href="/kurs">Курстар</a></li>
+          </ol>
+      </div>
+      </div>
+    </header>
+    <section class="s5">
+      <div class="container">
+        <h2>Ноутбук секциясы</h2>
+        <p>Ноутбук көрсететін парақшаға қош келдіңіздер бұл жерде бағдарламашыға арналған ноутбуктар сатылады</p>
+          <div class="tabs">
+            <input id="tab1" type="radio" name="tabs" checked>
+            <label for="tab1" title="econom">econom</label>
+
+            <input id="tab2" type="radio" name="tabs">
+            <label for="tab2" title="expensiv">expensiv</label>
+
+            <section id="content-tab1">
+              <div class="shell">
+                  <div class="card">
+                      <h3><p>xps 13</p></h3>
+                  <div class="dollor">
+                    150$
+                  </div>
+                    <img src="{{ url_for('static', filename = 'img/xps_13.jpg')}}" alt="" class="s">
+                      <button type="button" name="button">кoрзина</button>
+                      <button type="button" name="button" class="pay">купить</button>
+                  </div>
+
+                  <div class="card">
+                      <h3><p>vivobook 15</p></h3>
+                      <div class="dollor">
+                         150$
+                      </div>
+                    <img src="{{url_for('static', filename = 'img/vivobook_15.jpg')}}" alt="" class="s">
+                      <button type="button" name="button">кoрзина</button>
+                      <button type="button" name="button" class="b1">купить</button>
+                  </div>
+
+                  <div class="card">
+                      <h3><p>huawei</p></h3>
+                      <div class="dollor">
+                       150$
+                      </div>
+                    <img src="{{url_for('static', filename = 'img/huawei.jpg')}}" alt="" class="s">
+                      <button type="button" name="button">кoрзина</button>
+                      <button type="button" name="button" class="b1">купить</button>
+                  </div>
+              </div>
+            </section>
+            <section id="content-tab2">
+              <div class="shell">
+                  <div class="card">
+                       <h3><p>xps_15</p></h3>
+                      <div class="dollor">
+                       150$
+                      </div>
+                    <img src="{{ url_for('static', filename = 'img/dell.jpg')}} " alt="">
+                       <button type="button" name="button">кoрзина</button>
+                      <button type="button" name="button" class="b1">купить</button>
+                  </div>
+
+                   <div class="card">
+                        <h3><p>mac</p></h3>
+                      <div class="dollor">
+                       150$
+                      </div>
+                    <img src="{{ url_for('static', filename = 'img/orig.jpg')}}" alt="">
+                        <button type="button" name="button">кoрзина</button>
+                         <button type="button" name="button" class="b1">купить</button>
+                  </div>
+
+                  <div class="card">
+                       <h3><p>Macbook Air</p></h3>
+                      <div class="dollor">
+                       150$
+                      </div>
+                    <img src="{{url_for('static', filename = 'img/Pro_16.jpg')}}" alt="">
+                       <button type="button" name="button">кoрзина</button>
+                       <button type="button" name="button" class="b1">купить</button>
+                  </div>
+              </div>
+            </section>
+          </div>
+      </div>
+    </section>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.js"
+  integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+  crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.0/circle-progress.min.js"></script>
+<script type="text/javascript" src="{{ url_for('static', filename = 'js/nout.js')}}"></script>
+  </body>
+</html>

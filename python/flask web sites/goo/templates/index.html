@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <link rel="stylesheet" href="{{ url_for('static', filename = 'css/style.css')}}">
+    <title>басты бет</title>
+     <link rel="icon" type="png" href="{{ url_for('static', filename = 'img/logo.jpg')}}">
+         <link rel="preconnect" href="https://fonts.gstatic.com">
+      <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;900&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
+<link rel="stylesheet" href="https://codepen.io/fancyapps/pen/rYxrEN">
+<link rel="stylesheet" href="https://codepen.io/fancyapps/pen/eezERq">
+<script src="https://kit.fontawesome.com/67d2ef7984.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/67d2ef7984.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/f6d8a5e8ce.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <div class="modal-window">
+      <div class="modal-card">
+          <h2>Корзина</h2>
+        <i class="fas fa-window-close"></i>
+        <p>Добро пожаловать в корзину</p>
+        <div class="basket">
+          <div class="lor">
+            150$
+          </div>
+          <img src="{{ url_for('static', filename = 'img/laptop.jpg')}}" alt="">
+          <div class="tt">
+            <p>Подойдет для учебы или работы: программистам, музыкантам,
+              фотографам, монтажерам и пр. MacBook имеет 8 Гб оперативной и
+              256 Гб (SSD) внутренней памяти.
+              Процессор Apple M1 – он по мощности сопоставим с MacBook Pro 16"
+              на Core i9 с 32 Гб оперативной памяти</p>
+          </div>
+        </div>
+        <button type="button" name="button" class="delete">Удалить</button>
+        <button type="button" name="button">Купить</button>
+      </div>
+    </div>
+
+     <div class="modal-w">
+      <div class="modal-c">
+          <h2>Корзина</h2>
+       <i class="fa-solid fa-square-xmark"></i>
+        <p>Добро пожаловать в корзину</p>
+        <div class="basket">
+          <div class="lor">
+            100$
+          </div>
+          <img src="{{ url_for('static', filename = 'img/naushnik.jpg')}}" alt="">
+          <div class="tt">
+            <p>на Core i9 с 32 Гб оперативной памяти</p>
+          </div>
+        </div>
+        <button type="button" name="button" class="delete">Удалить</button>
+        <button type="button" name="button">Купить</button>
+      </div>
+    </div>
+
+
+    <a href="#">
+    <div class="up">
+      <i class="fas fa-arrow-up"></i>
+    </div>
+    </a>
+    <header id="up">
+      <div class="container">
+        <div class="header_content">
+          <div id="logo">Narik<span id="logo-s">тech</span></div>
+
+          <ol class="ullg">
+            <li><a href="/obrat">Хабарласу</a></li>
+            <li><a href="/smart">Cмартфоны</a></li>
+            <li><a href="/nout">Ноутбуки</a></li>
+            <li><a href="/kurs">Курстар</a></li>
+          </ol>
+          <input type="text" name="" class="i1" value="" placeholder="введите текст">
+        <i class="fas fa-search"></i>
+      </div>
+      </div>
+    </header>
+    <section class="s2">
+      <div class="container">
+        <div class="s2_content">
+          <div class="main-slider">
+            <a href="{{ url_for('static', filename = 'img/SSDXraydisk.jpg')}}" data-fancybox="images">
+              <img src="{{ url_for('static', filename = 'img/SSDXraydisk.jpg')}}"/>
+              <div class="kartynka">
+                <h3>SSDXraydisk</h3>
+              </div>
+              </a>
+
+              <a href="{{ url_for('static', filename = 'img/laptop 1.jpg')}}" data-fancybox="images">
+                <img src="{{ url_for('static', filename = 'img/laptop 1.jpg')}}" >
+                <div class="kartynka">
+                  <h3>laptop 1</h3>
+                </div>
+              </a>
+
+              <a href="{{ url_for('static', filename = 'img/laptop 2.jpg')}}" data-fancybox="images">
+                <img src="{{ url_for('static', filename = 'img/laptop 2.jpg')}}"/>
+                <div class="kartynka">
+                  <h3>laptop 2</h3>
+                </div>
+              </a>
+
+              <a href="{{ url_for('static', filename = 'img/laptop 3.jpg')}}" data-fancybox="images">
+                <img src="{{ url_for('static', filename = 'img/laptop 3.jpg')}}"/>
+                <div class="kartynka">
+                  <h3>laptop 3</h3>
+                </div>
+              </a>
+
+              <a href="{{ url_for('static', filename = 'img/laptop 4.jpg')}}">
+                <img src="{{ url_for('static', filename = 'img/laptop 4.jpg')}}" alt="">
+                <div class="kartynka">
+                  <h3>laptop 4</h3>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+    </section>
+    <section class="s3">
+      <div class="container">
+        <h2>Now Sale</h2>
+        <p>Енді сатылуда</p>
+        <div class="s3_content">
+          <div class="shell">
+            <div class="left">
+              <div class="card">
+                <h3>MacBook Air 13" M1</h3>
+                <div class="dollor">
+                  150$
+                </div>
+                  <img src="{{ url_for('static', filename = 'img/laptop.jpg')}}"/>
+              <div class="text">
+                <p class="t1">Подойдет для учебы или работы: программистам, музыкантам,
+                  фотографам, монтажерам и пр. MacBook имеет 8 Гб оперативной и
+                  256 Гб (SSD) внутренней памяти.
+                  Процессор Apple M1 – он по мощности сопоставим с
+                  MacBook Pro 16" на Core i9 с 32 Гб оперативной памяти.</p>
+              </div>
+              <button type="button" name="button">кoрзина</button>
+              <button type="button" name="button" class="b1">купить</button>
+              </div>
+              <div class="card">
+                  <h3>Механическая клавиатура Havit</h3>
+                  <div class="dollor">
+                    150$
+                  </div>
+                <img src="{{ url_for('static', filename = 'img/klaviatura.jpg')}}" alt="">
+                <div class="text">
+                <p class="t1">Клавиатура на красных свичах – они заметно тише, чем синие.
+                  Нажатия плавные и усилия требуется больше, чем у мембранных свичах,
+                  так что случайные срабатывания происходят реже.
+                  Подсветка можно кастмизировать под себя.
+                  Она имеет кучу режимов: змейка, дождь, переливание, дыхание, волна и пр.
+                  Можно настроить яркость и скорось анимации.
+                  В комплекте идет подставка для кистей рук и съемник для
+                  клавиш на случай, если захотите почистить. Длина – 175 см.</p>
+                </div>
+                <button type="button" name="button">корзину</button>
+                <button type="button" name="button" class="d2">купить</button>
+                </div>
+            </div>
+            <div class="right">
+                <div class="card">
+                  <!-- <div class="img1"></div> -->
+                  <h3>Беспроводные наушники Ausdom</h3>
+                  <div class="dollor">
+                    100$
+                  </div>
+                  <img src="{{ url_for('static', filename = 'img/naushnik.jpg')}}" alt="">
+                  <div class="text">
+                      <p class="t1">Наушники сопрягаются с телефоном по современному
+                        Bluetooth 5.0 – связь держат отлично, без обрывов.
+                        Имеют сенсорное управление: можно переключать треки,
+                        ставить на паузу, управлять звонками, вызывать
+                        голосового помощника.
+                        С подзарядкой от кейса наушники проработают до 16 часов,
+                        без - 4-5 часов.</p>
+                  </div>
+                  <button type="button" name="button" class="d2">корзину</button>
+                  <button type="button" name="button">купить</button>
+                </div>
+                <div class="card">
+                <h3>Наушники Apple AirPods 2 </h3>
+                <div class="dollor">
+                  150$
+                </div>
+                <img src="{{ url_for('static', filename = 'img/airpods.jpg')}}" alt="">
+                <div class="text">
+                  <p class="t1">Они получили возможность беспроводной зарядки, поддержку
+                    голосового ассистента Siri, улучшенное соединение –
+                    быстрее подключаются к устройствам и имеют
+                    уменьшенные задержки звука,  к AirPods можно подключить и другие
+                    устройства Apple: iPad, Macbook, iMac и т.д.
+                    Время автономной работы – 5 часов. Кейса хватает на 4 зарядки.
+                    Итого 25 часов прослушивания. За 15 минут в кейсе наушники
+                    проработают 3 часа. Кейс заряжается через Lighting. </p>
+                </div>
+                <button type="button" name="button" class="b1">корзину</button>
+                <button type="button" name="button">купить</button>
+                </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </section>
+    <script src="https://code.jquery.com/jquery-3.6.0.js"
+    integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+    crossorigin="anonymous"></script>
+    <script type="text/javascript" src="js/telegram.php"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename = 'js/script.js')}}"></script>
+  </body>
+</html>

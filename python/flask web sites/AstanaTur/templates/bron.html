@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="{{ url_for('static', filename = 'css/bron.css')}}">
+    <title>Броньдау</title>
+</head>
+<body>
+      <header id="up">
+      <div class="container">
+        <nav>
+         <div id="logo">Astana<span id="logo-s">тravel</span></div>
+          <ul class="ullg">
+           <li><a href="#">главное</a></li>
+                <li><a href="/tour">О нас</a></li>
+                 <li><a href="#">Тур пакеты</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+      <div class="content">
+      <div class="header">
+          <h4>Duna Tur agentta Қош келдініз</h4>
+          <h5>Бронь жасау</h5>
+          <div class="main">
+            <i class="fa-solid fa-user"></i>
+            <input type="text" name="" value="" placeholder="бронь жасайтын күнді енгіз 25.11.2022">
+          </div><br>
+          <div class="main">
+            <i class="fa-solid fa-lock"></i>
+            <input type="text" name="" value="" placeholder="адам мөлшері *балалар 12-жаска дейін*">
+          </div>
+          <div class="ma">
+            <span>Қандай серуендеу жолын тандайсындар</span>
+             <div class="ma">
+                 <input type="radio" name="gender">Авиа <input type="radio" name= "gender" checked>ЖД <input type="radio" name= "gender" checked>Сапаржай
+             </div>
+          </div>
+          <button type="button" name="button" onclick="location.href ='/cash'">Төлеу</button>
+
+      </div>
+    </div>
+</body>
+</html>

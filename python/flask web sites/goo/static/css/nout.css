@@ -1,0 +1,130 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Titillium Web', sans-serif;
+}
+body{
+  background-image: url(../img/Planetary.jpg);
+  background-size: cover;
+  background-position: center;
+}
+header{
+  height: 70px;
+  width: 100%;
+  color: #fff;
+  background-color: rgba(58 89 200 / 10%);
+  box-shadow: 0 0 25px #2a87c1;;
+}
+#logo{
+  line-height: 60px;
+  margin-left: 40px;
+  display: inline-block;
+	cursor: pointer;
+	font-size: 30px;
+	font-weight: bold;
+	color: #00a7ff; /* blue */
+}
+#logo:hover{
+    color: #eef9ff; /* white */
+}
+#logo-s{
+	color: #eef9ff; /* white */
+	margin-left: 5px;
+}
+#logo:hover #logo-s{
+	color: #00a7ff; /* blue */
+}
+
+.container{
+  height: 100%;
+  width: 90%;
+  margin: 0 auto;
+}
+.ulxs{
+  display: none;
+}
+.header_content{
+  display: flex;
+  align-items: center;
+  height: 70px;
+  width: 100%;
+}
+.ullg li a{
+    text-decoration: none;
+    color: white;
+    margin-left: 15px;
+}
+.header_content ol{
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: 0 auto;
+}
+.header_content li{
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.header_content li:hover{
+  border-bottom:2px solid #00a7ff;
+  cursor: pointer;
+  transition: 1s all ease;
+}
+hr{
+    width: 17%;
+    margin: 20px auto;
+}
+.s5{
+  width: 100%;
+  height: auto;
+  padding: 30px 0;
+}
+.s5 h2{
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+}
+.s5 p{
+  text-align: center;
+  color: red;
+}
+.s5 img{
+    width: 30px;
+}
+.card{
+  width: 100%;
+  height: auto;
+  text-align: center;
+  margin: 20px;
+  background-color: white;
+  border-radius: 20px;
+  padding-bottom: 10px;
+}
+.card button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 35%;
+  margin-top: 10px;
+  border-radius: 5px;
+  width: 30%;
+  height: 30px;
+  background-color: #ff6500;
+  color: white;
+  outline: none;
+  border: none;
+}
+.s{
+ padding-top: 10px;
+}
+.shell{
+  display: flex;
+}
+
+
+
+
+.block {
+  display: flex;
+}
+

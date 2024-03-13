@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <link rel="stylesheet" href="{{ url_for('static', filename = 'css/smart.css')}}">
+    <title>Smartfone</title>
+     <link rel="icon" href="{{ url_for('static', filename = 'img/logo.jpg')}}">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
+<link rel="stylesheet" href="https://codepen.io/fancyapps/pen/rYxrEN">
+<link rel="stylesheet" href="https://codepen.io/fancyapps/pen/eezERq">
+<script src="https://kit.fontawesome.com/67d2ef7984.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/67d2ef7984.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/f6d8a5e8ce.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <div class="modal-window">
+      <div class="modal-card">
+          <h2>Корзина</h2>
+        <i class="fas fa-window-close"></i>
+        <p>Добро пожаловать в корзину</p>
+        <div class="basket">
+          <div class="lor">
+            150$
+          </div>
+          <img src="{{ url_for('static', filename = 'img/Смартфон Realme GT 5G.jpg')}}" alt="">
+          <div class="tt">
+            <p>Подойдет для учебы или работы: программистам, музыкантам,
+              фотографам, монтажерам и пр. MacBook имеет 8 Гб оперативной и
+              256 Гб (SSD) внутренней памяти.
+              Процессор Apple M1 – он по мощности сопоставим с MacBook Pro 16"
+              на Core i9 с 32 Гб оперативной памяти</p>
+          </div>
+        </div>
+        <button type="button" name="button">Купить</button>
+      </div>
+    </div>
+
+     <div class="payment">
+      <div class="payment-card">
+          <h2>Форма оплаты</h2>
+        <i class="fa-solid fa-circle-xmark"></i>
+        <p>Добро пожаловать в форму оплаты</p>
+        <button type="button" name="button">по qr</button>
+        <button type="button" name="button">наличными</button>
+      </div>
+    </div>
+    <header id="up">
+     <div class="container">
+       <div class="header_content">
+         <div id="logo">Narik<span id="logo-s">тech</span></div>
+         <ol class="ullg">
+           <li><a href="/obrat">Хабарласу</a></li>
+           <li><a href="/">Басты бет</a></li>
+           <li><a href="/nout">Ноутбуктар</a></li>
+           <li><a href="'/kurs">Курстар</a></li>
+         </ol>
+     </div>
+     </div>
+    </header>
+    <section class="s4">
+      <div class="container">
+        <h2>Смартфон shop</h2>
+        <p>в этой секции будут продаваться смартфоны для покупателей и внизу привидены вся информация о смартфонах</p>
+           <div class="shell2">
+             <div class="price_card">
+                <h4>Xiaomi Poco F3</h4>
+                <div class="dollor">
+                  100$
+                </div>
+              <img src="{{ url_for('static', filename = 'img/Xiaomi Poco F3.jpg')}}" alt="">
+                <ol>
+                  <li>1. "Lorem ipsum dolor sit amet</li>
+                  <li>2. Sed ut perspiciatis unde omnis iste natus</li>
+                  <li>3. But I must explain to you how all this mistaken</li>
+                  <li>4. There are many variations of passages</li>
+                </ol>
+                <button type="button" name="button" class="pay">Купить</button>
+                <button type="button" name="button">Корзину</button>
+             </div>
+             <div class="price_card">
+               <h4>Смартфон Realme GT 5G</h4>
+               <div class="dollor">
+                 150$
+               </div>
+               <img src="{{ url_for('static', filename = 'img/Смартфон Realme GT 5G.jpg')}}" alt="">
+               <ol>
+                 <li> 1. "Lorem ipsum dolor sit amet</li>
+                 <li> 2. Sed ut perspiciatis unde omnis iste natus</li>
+                 <li> 3. But I must explain to you how all this mistaken</li>
+                 <li> 4. There are many variations of passages</li>
+                 <li> 5. Lorem Ipsum is simply dummy text</li>
+                 <li> 6. The standard chunk of Lorem Ipsum used</li>
+                 <li> 7. The standard chunk of Lorem Ipsum used</li>
+                 <li> 8. The standard chunk of Lorem Ipsum used</li>
+               </ol>
+               <button type="button" name="button">Купить</button>
+               <button type="button" name="button" class="b1">Корзину</button>
+             </div>
+             <div class="price_card">
+               <h4>Xiaomi Poco M3 Pro 5G</h4>
+               <div class="dollor">
+                 200$
+               </div>
+                <img src="{{ url_for('static', filename = 'img/mobile phone 1.jpg')}}" alt="">
+                <ol>
+                  <li> 1."Lorem ipsum dolor sit amet</li>
+                  <li> 2. Sed ut perspiciatis unde omnis iste natus</li>
+                  <li> 3. But I must explain to you how all this mistaken</li>
+                  <li> 4. There are many variations of passages</li>
+                  <li> 5. Lorem Ipsum is simply dummy text</li>
+                  <li> 6. The standard chunk of Lorem Ipsum used</li>
+                  <li> 7. The standard chunk of Lorem Ipsum used</li>
+                  <li> 8. The standard chunk of Lorem Ipsum used</li>
+                  <li> 9. Where does it come from?</li>
+                 </ol>
+                 <button type="button" name="button">Купить</button>
+                 <button type="button" name="button">Корзину</button>
+                </div>
+             </div>
+        </div>
+      </div>
+    </section>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename = 'js/smart.js')}}"></script>
+  </body>
+</html>

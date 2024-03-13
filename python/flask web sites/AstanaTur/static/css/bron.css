@@ -1,0 +1,129 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body,html{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Titillium Web', sans-serif;
+  height: 99%;
+  font-family: Arial;
+  background-image: url(../img/iterek.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+header{
+  height: 50px;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 25px #333;
+  position: absolute;
+  top: 0;
+  z-index: 2;
+}
+#logo{
+  line-height: 60px;
+  margin-left: 40px;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  color: green; /* blue */
+}
+#logo:hover{
+    color: #eef9ff; /* white */
+}
+#logo-s{
+	color: #eef9ff; /* white */
+	margin-left: 5px;
+}
+#logo:hover #logo-s{
+	color: green; /* blue */
+}
+.container{
+  width: 90%;
+  height: auto;
+  margin: 0 auto;
+}
+.ullg{
+  list-style: none;
+  display: flex;
+  margin-left: auto;
+}
+nav{
+  display: flex;
+  align-items: center;
+  height: 50px;
+}
+.ullg li a{
+  text-decoration: none;
+  margin-left: 50px;
+  color: white;
+}
+nav span{
+    color: green;
+}
+.ullg li:hover{
+  background-color: #81dc81;
+  padding: 4px 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.5s all ease;
+}
+.content{
+  width: 900px;
+  height: 450px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  border-radius: 25px;
+  background-color: rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 25px #333;
+}
+.header{
+  font-size: 35px;
+  padding-top: 50px;
+  text-align: center;
+}
+.main{
+  width: 100%;
+  overflow: hidden;
+  font-size: 20px;
+  padding: 8px 0;
+  margin: 8px 0;
+  border-bottom: 2px solid #008000;
+}
+.ma{
+  font-size: 20px;
+}
+.main i{
+  float: left;
+  text-align: center;
+}
+.main input{
+  border: none;
+  outline: none;
+  background: none;
+  color: white;
+  font-size: 20px;
+  width: 80%;
+  float: left;
+  margin: 0 10px;
+  font-weight: bold;
+}
+button{
+  width: 360px;
+  height: 45px;
+  border: none;
+  outline: none;
+  font-size: 20px;
+  padding-left: 0;
+  background-color: #008000;
+  color: white;
+  letter-spacing: 1px;
+  border-radius: 4px;
+}

@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="{{ url_for('static', filename = 'css/cash.css')}}">
+    <title>Payment</title>
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
+<link rel="stylesheet" href="https://codepen.io/fancyapps/pen/rYxrEN">
+<link rel="stylesheet" href="https://codepen.io/fancyapps/pen/eezERq">
+<script src="https://kit.fontawesome.com/67d2ef7984.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/67d2ef7984.js" crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="modal-window">
+      <div class="modal-card">
+          <h2>Корзина</h2>
+        <i class="fas fa-window-close"></i>
+        <p>Добро пожаловать в корзину</p>
+        <div class="basket">
+          <div class="lor">
+            150$
+          </div>
+          <div class="tt">
+            <p>Подойдет для учебы или работы: программистам, музыкантам,
+              фотографам, монтажерам и пр. MacBook имеет 8 Гб оперативной и
+              256 Гб (SSD) внутренней памяти.
+              Процессор Apple M1 – он по мощности сопоставим с MacBook Pro 16"
+              на Core i9 с 32 Гб оперативной памяти</p>
+          </div>
+        </div>
+        <button type="button" name="button" class="delete">Удалить</button>
+        <button type="button" name="button">Купить</button>
+      </div>
+    </div>
+<header id="up">
+      <div class="container">
+        <nav>
+         <div id="logo">Astana<span id="logo-s">тravel</span></div>
+          <ul class="ullg">
+           <li><a href="#">главное</a></li>
+                <li><a href="/tour">О нас</a></li>
+                 <li><a href="#">Тур пакеты</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+  <script type="text/javascript" src="{{ url_for('static', filename = 'js/scripi.js')}}"></script>
+</body>
+</html>

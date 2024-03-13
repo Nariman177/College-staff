@@ -1,0 +1,377 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+   font-family: "Mulish", sans-serif;
+}
+body{
+  background-image: url(../img/Planetary.jpg);
+  background-size: contain;
+  background-position: center;
+}
+header{
+  height: 100px;
+  width: 100%;
+  color: #fff;
+}
+
+#logo{
+  line-height: 60px;
+  margin-left: 40px;
+  display: inline-block;
+  cursor: pointer;
+  font-size: 30px;
+  font-weight: bold;
+  color: #00a7ff; /* blue */
+}
+#logo:hover{
+    color: #eef9ff; /* white */
+}
+#logo-s{
+	color: #eef9ff; /* white */
+	margin-left: 5px;
+}
+#logo:hover #logo-s{
+	color: #00a7ff; /* blue */
+}
+.container{
+  height: 100%;
+  width: 90%;
+  margin: 0 auto;
+}
+.ulxs{
+  display: none;
+}
+.up{
+  width: 50px;
+  height: 50px;
+  background-color: #00000059;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+}
+.header_content{
+  display: flex;
+  align-items: center;
+  height: 100px;
+  width: 100%;
+}
+.header_content  .fas fa-info{
+  margin-left: 10px;
+}
+.ullg li a{
+    text-decoration: none;
+    color: white;
+    margin-left: 15px;
+}
+.left_card{
+  width: 50px;
+  height: 50px;
+  background-color: #00000059;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+}
+.header_content ol{
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: 0 auto;
+}
+.header_content li{
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.header_content li:hover{
+  border-bottom:2px solid #00a7ff;
+  cursor: pointer;
+  transition: 1s all ease;
+}
+.header_content  .fa-info{
+  display: flex;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  justify-content: center;
+}
+.header_content input{
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  position: absolute;
+  right: 8%;
+}
+.s2{
+  width: 100%;
+  height: calc(100vh - 100px);
+  color: #000;
+}
+.s2_content {
+  width: 100%;
+  height: 90%;
+  background-color: #fff;
+  background-color: rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 25px #333;
+}
+.main-slider a {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+.s2_content img{
+  /* display: flex;
+  align-items: center; */
+  height: 50%;
+  margin: 0 auto;
+  font-size: 881px;
+}
+.kartynka{
+  margin-bottom: 10px;
+  width: 500px;
+  height: 100%;
+  position: absolute;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+}
+.kartynka h3{
+  color: #00a7ff;
+}
+.kartynka p{
+  flex-direction: column;
+}
+.main-slider{
+  width: 100%;
+  height: 100%;
+}
+.main-slider img{
+  width: 50%;
+  height: 60%;
+}
+.width0{
+  width: 0;
+  padding: 0 !important;
+}
+.slick-list, .slick-track{
+  height: 100%;
+}
+.s3{
+  width: 100%;
+  height: auto;
+  padding: 55px 10px;
+  background-image: url(../img/dolina.jpg);
+  background-size: cover;
+}
+.s3 h2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.s3 p{
+  text-align: center;
+  padding-bottom: 10px;
+  color: white;
+}
+.s3 .img{
+  display: flex;
+  align-items: center;
+  height: 100px;
+  background-color: black;
+}
+.left, .right{
+  margin: 0 100px;
+  width: 100%;
+  /* background-color: white; */
+}
+.card{
+  width: 100%;
+  height: auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 20px 0;
+}
+.dollor{
+  text-align: center;
+  /* padding: 0 45px;
+  background-color: green; */
+}
+.card button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 35%;
+  margin-top: 10px;
+  border-radius: 5px;
+  width: 30%;
+  height: 30px;
+  background-color: #ff6500;
+  color: white;
+  outline: none;
+  border: none;
+}
+.text .t1{
+  color: blue
+}
+.card img{
+  margin: 0 54px;
+  width: 60%;
+  height: 50%;
+}
+.card h3{
+  text-align: center;
+  color: blue;
+}
+.s3_content .shell{
+  display: flex;
+}
+
+
+.modal-window{
+    width: 100%;
+    height: 100vh;
+    background-color: #000000a1;
+    position: fixed;
+    display: none;
+    z-index: 20;
+    align-items: center;
+    justify-content: center;
+  }
+.modal-card{
+  width: 500px;
+  height: 500px;
+  background-color: #fff;
+  background-image: url(../img/photo-deep-space.jpg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+.modal-card h2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.modal-card p{
+  text-align: center;
+  margin-bottom: 10px;
+}
+.modal-card .fa-window-close{
+  margin-top: 10px;
+  position: fixed;
+}
+.basket{
+  display: flex;
+  background-color: white;
+  border-radius: 15px;
+}
+.basket .lor{
+  text-align: center;
+  color: blue;
+}
+.basket img{
+  margin: 0 0;
+  width: 20%;
+}
+.basket .tt{
+  color: blue;
+  margin: 0 10px;
+  width: calc(100% - 70px);
+  font-size: 13px;
+}
+.modal-card button{
+  width: 30%;
+  height: 30px;
+  color: #445162;
+  border-radius: 10px;
+  margin-top: 20px;
+  outline: none;
+  border: none;
+  align-items: center;
+  justify-content: center;
+}
+.modal-card .delete{
+  color: red;
+}
+.block {
+  display: flex;
+}
+
+.modal-w{
+    width: 100%;
+    height: 100vh;
+    background-color: #000000a1;
+    position: fixed;
+    display: none;
+    z-index: 20;
+    align-items: center;
+    justify-content: center;
+  }
+.modal-c{
+  width: 500px;
+  height: 500px;
+  background-color: #fff;
+  background-image: url(../img/photo-deep-space.jpg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+.modal-c h2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.modal-c p{
+  text-align: center;
+  margin-bottom: 10px;
+}
+.modal-c .fa-solid fa-xmark-to-slot{
+  margin-top: 10px;
+  position: fixed;
+}
+.basket{
+  display: flex;
+  background-color: white;
+  border-radius: 15px;
+}
+.basket .lor{
+  text-align: center;
+  color: blue;
+}
+.basket img{
+  margin: 0 0;
+  width: 20%;
+}
+.basket .tt{
+  color: blue;
+  margin: 0 10px;
+  width: calc(100% - 70px);
+  font-size: 13px;
+}
+.modal-c button{
+  width: 30%;
+  height: 30px;
+  color: #445162;
+  border-radius: 10px;
+  margin-top: 20px;
+  outline: none;
+  border: none;
+  align-items: center;
+  justify-content: center;
+}
+.modal-c .delete{
+  color: red;
+}
+.block {
+  display: flex;
+}
+
