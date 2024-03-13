@@ -1,0 +1,98 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>учета заработной платы сотрудников</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+		integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<script src="https://cdn.jsdelivr.net/npm/vue@3.2.9/dist/vue.global.js"></script>
+</head>
+    <body>
+      <template>
+        <div>
+          <form @submit.prevent="addEmployee">
+            <label for="name">Employee's full name:</label>
+            <input id="name" type="text" v-model="newEmployee.name">
+            <label for="date">Salary issue date:</label>
+            <input id="date" type="date" v-model="newEmployee.date">
+            <label for="days">Number of days worked:</label>
+            <input id="days" type="text" v-model="newEmployee.days">
+            <label for="salary">Employee's salary amount:</label>
+            <input id="salary" type="text" v-model="newEmployee.salary">
+            <button type="submit">Add</button>
+          </form>
+      
+          <table>
+            <thead>
+              <tr>
+                <th>Serial number</th>
+                <th>Employee's full name</th>
+                <th>Date of salary issue</th>
+                <th>Number of days worked</th>
+                <th>Salary amount without tax deductions</th>
+                <th>Salary amount with tax deductions (-15%)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-for="(employee, index) in employees" :key="employee.id">
+                <td>{{ index + 1 }}</td>
+                <td>{{ employee.name }}</td>
+                <td>{{ employee.date }}</td>
+                <td>{{ employee.days }}</td>
+                <td>{{ employee.salary }}</td>
+                <td>{{ calculateSalaryWithTax(employee.salary) }}</td>
+              </tr>
+            </tbody>
+          </table>
+      
+          <div>
+            <p>Total salary without tax deductions: {{ totalSalaryWithoutTax }}</p>
+            <p>Total salary with tax deductions (-15%): {{ totalSalaryWithTax }}</p>
+          </div>
+        </div>
+      </template>
+      
+      <script>
+      export default {
+        data() {
+          return {
+            newEmployee: {
+              name: '',
+              date: '',
+              days: '',
+              salary: ''
+            },
+            employees: []
+          }
+        },
+        methods: {
+          addEmployee() {
+            this.employees.push({
+              id: Date.now(),
+              name: this.newEmployee.name,
+              date: this.newEmployee.date,
+              days: this.newEmployee.days,
+              salary: this.newEmployee.salary
+            });
+            this.newEmployee = {
+              name: '',
+              date: '',
+              days: '',
+              salary: ''
+            };
+          },
+          calculateSalaryWithTax(salary) {
+            return salary * 0.85;
+          }
+        },
+        computed: {
+          totalSalaryWithoutTax() {
+            return this.employees.reduce((total, employee) => total + parseFloat(employee.salary), 0);
+          },
+          totalSalaryWithTax() {
+            return this.totalSalaryWithoutTax * 0.85;
+          }
+        }
+      }
+      </script>
+    </body>
+</html>

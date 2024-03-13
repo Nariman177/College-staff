@@ -1,0 +1,33 @@
+.pb {
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+.round, .round2, .round3, .round4 {
+    width: 100%;
+    position: relative;
+
+}
+.round>strong, .round2>strong, .round3>strong, .round4>strong {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    top: 0;
+
+    height: calc(100% - 20px);
+    font-size: 35px;
+    color: #212121;
+}
+.round>span, .round2>span, .round3>span, .round4>span  {
+    display: block;
+    height: 20px;
+    color: #999;
+    font-size: 16px;
+    font-weight: 900;
+    text-transform: uppercase;
+}

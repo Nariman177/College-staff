@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+  <link rel="stylesheet" href="css/style.css">
+	<title>Есептеуіш</title>
+</head>
+<body>
+	<div class="wrapper">
+		<h2>Есеп(7 нұсқа) </h2>
+		<input id="num-one" name="num-one" type="text" placeholder="Бірінші санды енгізіңіз">
+		<input id="num-two" name="num-two" type="text" placeholder="Екінші санды енгізіңіз"><br>
+		<br>
+		<input checked id="box1" name="sign-area" type="radio" value="add"><b>+ Қосу</b>
+		<input id="box2" name="sign-area" type="radio" value="subtract"><b>- Алу</b> <br>
+		<input id="box3" name="sign-area" type="radio" value="multiply"><b>* Көбейту</b>
+		<input id="box4" name="sign-area" type="radio" value="divide"><b>/ Бөлу</b><br>
+		<br>
+		<button onclick="outcome()" type="button">Есептеу</button>
+		<hr>
+		<h1 id="resultArea"></h1>
+	</div>
+	</script>
+	<script>
+		function outcome() {
+	           var x = Number(document.getElementById("num-one").value);
+	           var y = Number(document.getElementById("num-two").value);
+	           var z = 0;
+
+	           if (document.getElementById("box1").checked){
+	               z = x + y;
+	           }
+	           else if (document.getElementById("box2").checked){
+	               z = x - y;
+	           }
+	           else if (document.getElementById("box3").checked){
+	               z = x * y;
+	           }
+	           else{
+	               z = x / y;
+	           }
+	           document.getElementById("resultArea").innerHTML = " Нәтижесі : "+ String(z);
+	       }
+	</script>
+</body>
+
+</html>

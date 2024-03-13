@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>#2</title>
+  </head>
+  <body>
+    <p>
+     First paragraph
+   </p>
+       <p>
+     Last paragraph
+   </p>
+   <table border="1">
+     <tr>
+       <th>id</th>
+       <th>name</th>
+     </tr>
+   </table>
+   <script>
+     const extractData = html => [...html.querySelectorAll('p')].map(p => p.textContent.trim());
+     const data = extractData(document.documentElement);
+     console.log(data);
+     [
+        'First paragraph',
+        'Last paragraph'
+      ]
+   </script>
+
+
+  </body>
+</html>

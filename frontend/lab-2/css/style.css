@@ -1,0 +1,71 @@
+#square{
+  width: 100px;
+  height: 100px;
+  background: green;
+}
+#rectangle{
+  margin-top: 10px;
+  width: 200px;
+  height: 80px;
+  background: green;
+}
+#circle{
+  margin-top: 10px;
+  width: 100px;
+  height: 100px;
+  background: green;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+   border-radius: 50px;
+ }
+ #ellips{
+   margin-top: 10px;
+   width: 150px;
+   height: 70px;
+   background: green;
+   -moz-border-radius: 100px / 50px;
+   -webkit-border-radius: 100px / 50px;
+   border-radius: 100px / 50px;
+}
+#parallelogram{
+  margin-top: 10px;
+  width: 150px;
+  height: 70px;
+  background: green;
+  -webkit-transform: skew(20deg);
+  -moz-transform: skew(20deg);
+  -o-transform: skew(20deg);
+}
+#triangle-up{
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid green;
+}
+#trapezoid{
+  margin-top: 10px;
+  width: 100px;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid green;
+}
+#star-six{
+  margin-top: 10px;
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid green;
+  position: relative;}
+#star-six:after{
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-top: 100px solid green;
+  position: absolute; content: "";
+  top: 30px;
+  left: -50px;
+}

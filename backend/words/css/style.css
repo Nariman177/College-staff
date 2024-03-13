@@ -1,0 +1,23 @@
+ul{
+  padding-left: 20px;
+}
+
+.expandable li a {
+  // position: relative;
+}
+
+.expandable .with-list::before {
+  content: '+';
+}
+
+.expandable .with-list.active::before {
+  content: '-';
+}
+
+li ul.expandable {
+  display: none;
+}
+
+li.active > .expandable{
+  display: block;
+}

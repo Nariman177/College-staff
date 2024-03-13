@@ -1,0 +1,67 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+header{
+  height: 100vh;
+  width: 100%;
+  background-color: #87509C;
+  background-image: url(../img/Marvel.jpg);
+  background-position: center;
+}
+
+.container{
+  width: 90%;
+  height: 100%;
+  margin: 0 auto;
+}
+.ullg{
+  list-style: none;
+  display: flex;
+  margin-left: auto;
+  text-transform: uppercase;
+}
+nav{
+  display: flex;
+  align-items: center;
+  height: 100px;
+}
+.ullg li{
+  margin-left: 20px;
+  color: white;
+}
+.ullg li:hover{
+  background-color: #509c8ca1;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.5s all ease;
+}
+.general{
+  width: 100%;
+  height: calc(100% - 100px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.general h1{
+  color: white;
+  display: flex;
+  align-items: center;
+  font-size: 3em;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.general button{
+  border-radius: 5px;
+  width: 30%;
+  height: 60px;
+  background-color: #ff6500;
+  color: white;
+  text-transform: uppercase;
+  outline: none;
+  border: none;
+  border-bottom: 5px solid #cc5405;
+  margin: 0 35%;
+}

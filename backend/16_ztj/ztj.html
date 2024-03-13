@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>scripi</title>
+  </head>
+  <body>
+    <button id="alert-generator" class="btn btn-primary">Generate Alert</button>
+ <div class="alerts m-5"></div>
+ <script>
+   let count = 0;
+
+   document.querySelector('#alert-generator').addEventListener('click', () => {
+     const newDiv = document.createElement('div');
+     newDiv.className = 'alert alert-primary';
+     newDiv.textContent = `Alert ${++count}`;
+     const timerId = setTimeout(() => {
+       newDiv.remove();
+     }, 3 * 1000);
+     newDiv.onclick = function () {
+       clearTimeout(timerId);
+       this.remove();
+     }
+     document.querySelector('.alerts').prepend(newDiv);
+   });
+ </script>
+  </body>
+</html>

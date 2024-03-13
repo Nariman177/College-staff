@@ -1,0 +1,145 @@
+/* *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+body,html{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Titillium Web', sans-serif;
+  height: 100%;
+  font-family: Arial;
+  background-image: url(../img/Planetary.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+header{
+  height: 100px;
+  width: 100%;
+  color: #fff;
+}
+.container{
+  height: 100%;
+  width: 90%;
+  margin: 0 auto;
+}
+.header_content{
+  display: flex;
+  align-items: center;
+  height: 100px;
+  width: 100%;
+}
+.header_content ol{
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: 0 auto;
+}
+.header_content li{
+  margin-left: 20px;
+}
+.header_content span{
+  font-weight: 600;
+  color: white;
+}
+header li:hover{
+  background-color: #509c8ca1;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.5s all ease;
+}
+.s2{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.slider-content{
+  width: 800px;
+  height: 500px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.slider-cover{
+  width: 500%;
+  height: 500px;
+  display: flex;
+}
+.slider-cover input{
+  display: none;
+}
+.st{
+  width: 20%;
+  transition: 2s;
+}
+.st img{
+  width: 800px;
+  height: 500px;
+}
+.nav-m{
+  position: absolute;
+  width: 800px;
+  margin-top: -40px;
+  justify-content: center;
+  display: flex;
+}
+.m-btn{
+  border: 2px solid #23e3c2;
+  padding: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 1s;
+}
+.m-btn:not(:last-child){
+  margin-right: 30px;
+
+}
+.m-btn:hover{
+    background-color: #509c8ca1;
+}
+#radio1:cheked ~.first{
+    margin-left: 0;
+}
+#radio2:cheked ~.first{
+    margin-left: -20%;
+}
+#radio3:cheked ~.first{
+    margin-left: -40%;
+}
+#radio4:cheked ~.first{
+    margin-left: -60%;
+}
+.nav-auto{
+  position: absolute;
+  width: 800px;
+  margin-top: 460px;
+  display: flex;
+  justify-content: center;
+}
+.nav-auto div{
+  border: 2px solid #23e3c2;
+  padding: 5px;
+  border-radius: 10px;
+  transition: 1s;
+}
+.nav-auto div:not(:last-child){
+  margin-right: 30px;
+  justify-content: center;
+}
+#radio1:checked ~ .nav-auto .a-b1{
+  background-color: #23e3c2;
+}
+#radio2:checked ~ .nav-auto .a-b2{
+  background-color: #23e3c2;
+}
+#radio3:checked ~ .nav-auto .a-b3{
+  background-color: #23e3c2;
+}
+#radio4:checked ~ .nav-auto .a-b4{
+  background-color: #23e3c2;
+}

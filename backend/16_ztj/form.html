@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>form</title>
+  </head>
+  <body>
+    <script>
+    function sendFeedback() {
+      const form = document.forms.feedback;
+      const email = form.elements.email.value;
+      const name = form.elements.name.value;
+      const comment = form.elements.comment.value;
+
+      const feedbackDiv = document.createElement("div");
+      feedbackDiv.innerHTML = `
+      <p>Feedback has been sent</p>
+      <div>Email: ${email}</div>
+      <div>Name: ${name}</div>
+      <div>Comment: ${comment}</div>
+       `;
+
+      form.style.display = "none";
+       form.parentElement.appendChild(feedbackDiv);
+   }
+</script>
+  <form name="feedback">
+<div><label>Email</label> <input type="email" name="email" /></div>
+<div><label>Name</label> <input type="text" name="name" /></div>
+<div><label>Comment</label> <textarea name="comment"></textarea></div>
+<button type="button" onclick="sendFeedback(this)">Send</button>
+</form>
+
+
+
+  </body>
+</html>

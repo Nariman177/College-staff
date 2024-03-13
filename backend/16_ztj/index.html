@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <p>Boom</p>
+    <div>Bam<em>gfgfg</em></div>
+    <script type="text/javascript">
+      prettify = function(document){
+          [...document.getElementsByTagName('div')].map(e => {
+              [...e.childNodes].map(ch => {
+                  if (ch.nodeType == 3){
+                      let element = document.createElement('p');
+                      element.innerHTML = ch.nodeValue;
+                      ch.replaceWith(element);
+                  }
+              })
+          });
+      }
+      prettify(document);
+      console.log(document.body.innerHTML);
+  </script>
+  </body>
+</html>

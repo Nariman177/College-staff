@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>lab1</title>
+    <link rel="stylesheet" href="css/lab2.css">
+	<meta charset="utf-8">
+  </head>
+  <script type="text/javascript">
+    name = 'Это я его открыло!';
+     var win;
+
+     function winOpen(p) {
+       	var w = 300, h = 200;
+       	var l = (screen.availWidth - w) / 2;
+       	var t = (screen.availHeight - h) / 2;
+       	var p = "width="+w+",height="+h+",top="+t+",left="+l;
+       	win = window.open("","",p);
+       	win.focus();;
+
+    }
+    function docWrite() {
+      if(win && !win.closed){
+		win.focus();
+		var text = "";
+		text +="<html>";
+		text +="<head>";
+		text +="<title>New Window</title>";
+		text +="<script>";
+		text +="alert(opener.name)";
+		text +="<\\/script>";
+		text +="</head>";
+		text +="<body>";
+		text +="<p>HeelooO!</p>";
+		text +="</body>";
+
+		text +="</html>";
+
+
+		win.document.open();
+		win.document.write(text);
+		win.document.close();
+}
+function winClose() {
+  if(win && !win.closed){
+  win.focus();
+  win.close();
+}
+
+
+  </script>
+  <body>
+    <p class="p1"><a href="javascript:winOpen();">Открыть окно</a></p>
+    <p class="p3"><a href="javascript:docWrite();">Заполнить окно</a></p>
+    <p class="p2"><a href="javascript:winClose();">Закрыть окно</a></p>
+  </body>
+</html>

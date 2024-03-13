@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Kazkastan Turizm</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript">
+      function valid(form){
+        var fail = false;
+        var name = form.name.value;
+        var password = form.password.value;
+        var RePassword = form.RePassword.value;
+        var state = form.state.value;
+        if (name == "" || name == "") {
+          fail = "Сіз аты жөніңізді енгізбедіңіз !!!";
+        }
+        else if (password == "") {
+          fail = "Сіз парольді енгізбедіңіз";
+        }
+        else if (password != RePassword) {
+          fail = "Пароль сәйкес емес!!!";
+        }
+        else if (state == "") {
+          fail = "Жынысынды ауыстыр";
+        }
+        if (fail) {
+          alert(fail);
+          //return false;
+        }
+
+      }
+
+    </script>
+
+  </head>
+  <body>
+
+<form action="index.html" method="post" name="test" onsubmit="valid(this)" id="form">
+    <label for="name">Аты жөні</label>
+    <input type="text" name="" value="" placeholder="Аты жөні" id="name">
+    <br/>
+    <br/>
+    <label for="password">Пароль</label>
+    <input type="password" name="password" value="" placeholder="Пароль: " id="RePassword">
+    <br>
+    <br>
+    <label for="RePassword">Парольді қайталау:</label>
+    <input type="RePassword" name="RePassword" value="" placeholder="Парольді қайталау: " id="RePassword">
+    <br>
+    <br>
+    <span>Жынысы</span>
+    <input type="radio" name="state" id="male" value="Ep">
+    <label for="male">Ep</label>
+    <input type="radio" name="state" id="female" value="Әйел">
+    <label for="female">Әйел</label>
+    <br>
+    <br>
+    <button type="button" name="button" onclick="valid(document.getElementById('form'))" name ="submit">жіберу</button>
+</form>
+
+
+
+
+  </body>
+</html>

@@ -1,0 +1,40 @@
+$icons: "cat", "dog", "whale", "bird", "fish";
+
+@mixin icon-32($icon-name) {
+  .icon-#{$icon-name} {
+    height: 32px;
+    width: 32px;
+
+    background: url("#{$icon-name}.svg");
+  }
+}
+ @for $i from 1 to 5 {
+  $side: $i * 10;
+
+  .square-#{$side} {
+    display: block;
+
+    width: #{$side}px;
+    height: #{$side}px;
+  }
+}
+
+$icons: "cat", "dog", "whale", "bird", "fish";
+
+@mixin icon-32($icon-name) {
+  .icon-#{$icon-name} {
+    height: 32px;
+    width: 32px;
+
+    background: url("../icon/svg/#{$icon-name}.svg");
+  }
+}
+
+@each $icon in $icons {
+  @include icon-32($icon);
+}
+
+
+
+
+

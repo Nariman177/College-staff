@@ -1,0 +1,20 @@
+.cursor2, .cursor3{
+    height: 36px;
+    width: 36px;
+    z-index: 99998;
+    -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s easy-out
+}
+.cursor2.hover,
+.cursor3.hover{
+    -webkit-transform: scale(2) translateX(-25%) translateY(-25%);
+    transform: scale(2) translateX(-25%) translateY(-25%);
+    border: none;
+}
+.cursor2{
+  border: 2px solid #fff;
+  box-shadow: 0 0 22px rgba(rgba(255, 255, 255, 0.6);
+}
+.cursor2.hover{
+  
+}

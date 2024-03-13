@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>#1</title>
+  </head>
+  <body>
+    <div class="">
+      one
+      two
+      three
+    </div>
+   <button type="button" name="button" onclick="onload(this)">ppp</button>
+  </body>
+
+  <script type="text/javascript">
+
+   onload = function(){
+   let arr = document.body.innerHTML.trim().split('\n').map( (el) => el.trim() );
+   document.body.innerHTML = '<p>' + arr.join('</p><p>') + '</p>';
+   }
+
+
+  </script>
+</html>

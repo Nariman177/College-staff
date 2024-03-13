@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="icon" type="png" href="img/logo.jpg">
+    <title>Хабарласу</title>
+    <link rel="stylesheet" href="css/contact.css">
+    <script src="https://kit.fontawesome.com/67d2ef7984.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+      <nav>
+    <div id="logo">KT<span id="logo-s">best</span></div>
+  <div class="menu-toggle">
+  <span></span>
+  <span></span>
+  <span></span>
+  </div>
+  <ul class="menu">
+  <li><a href="about.html">Біз туралы</a></li>
+  <li><a href="services.html">Сервистер</a></li>
+  <li><a href="index.html">басты бет</a></li>
+  <li><a href="news.html">жаңалықтар</a></li>
+  </ul>
+  </nav>
+  <section class="s5">
+    <div class="container">
+      <h2>Кері байланысты беру бөлімі</h2>
+      <div class="shall1">
+          <input type="text" name="" value="" placeholder="сіздің атыныз">
+          <input type="text" name="" value="" placeholder="сіздің email">
+        </div>
+        <div class="right1">
+          <textarea name="name" rows="8" cols="80" placeholder="сіздің хабарламаныз"></textarea>
+          <button type="submit" name="button">хабар жіберу</button>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="extra" id="fas fa-arrow-up">
+  <ol>
+    <li><i class="fab fa-whatsapp"></i>WhatsAPP</li>
+      <li><i class="fas fa-at"></i>kiminobet@gmail.com</li>
+      <li><i class="fas fa-phone"></i>80 60 4568 55 65</li>
+      <li><i class="fab fa-instagram"></i>Instagram</li>
+  </ol>
+  </section>
+  <script>
+      const toggle = document.querySelector(".menu-toggle");
+      const menu = document.querySelector(".menu");
+
+        toggle.addEventListener("click", function () {
+          menu.classList.toggle("slide-in");
+        });
+  </script>
+  </body>
+</html>

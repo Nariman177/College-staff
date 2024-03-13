@@ -1,0 +1,19 @@
+html{
+  background:#fff;
+  font:16px calibri, sans-serif;
+  cursor:default;
+}
+p{
+  float:left;
+  margin:0 8px 0 0;
+  padding:20px;
+}
+.p1{
+  background:#ccf;
+}
+.p2{
+  background:#fcc;
+}
+.p3{
+  background:#cfc;
+}

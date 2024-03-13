@@ -1,0 +1,164 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-image:linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../img/homem0.jpg);
+  background-size: cover;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 0 25px #333;
+  color: #fff;
+  font-size: 18px;
+  padding: 10px 20px;
+}
+#logo{
+  line-height: 60px;
+  margin-left: 40px;
+  display: inline-block;
+  cursor: pointer;
+  font-size: 30px;
+  font-weight: bold;
+  color: #fbd2b1
+}
+#logo:hover{
+    color: #eef9ff; /* white */
+}
+#logo-s{
+	color: #eef9ff; /* white */
+	margin-left: 5px;
+}
+#logo:hover #logo-s{
+	color: #fbd2b1
+}
+.logo a {
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.logo img{
+  width: 100px;
+}
+
+.menu-toggle {
+  display: none;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  margin: 0 10px;
+}
+
+.menu li a {
+  color: #fff;
+  text-decoration: none;
+}
+.menu li a:hover{
+  color: #f9004d;
+}
+.home{
+  width: 100%;
+  height: 75vh;
+}
+.home h1{
+  color: white;
+  text-align: center;
+}
+.home p{
+  color: white;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.home .button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home button{
+  width: 200px;
+  padding: 15px 0;
+  text-align: center;
+  border-radius: 5px;
+  font-weight: bold;
+  border: 2px solid #009688;
+  background: transparent;
+  color: white;
+}
+
+.extra ol{
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+.extra li{
+  color: white;
+  margin: 20px auto;
+}
+.extra{
+    width: 100%;
+    height: auto;
+  background-color: #1600ffa3;
+}
+.extra li:hover{
+  color: #ffeb3b;
+  cursor: pointer;
+}
+.extra i{
+  margin-right: 5px;
+}
+@media (max-width: 1000px) {
+  .menu-toggle {
+    display: block;
+    cursor: pointer;
+  }
+  .menu {
+    box-shadow: 0 0 25px #333;
+    display: none;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    flex-direction: column;
+    margin-left: 78%;
+    background-color: #a07a3f;
+    padding: 20px;
+  }
+  .menu li {
+    margin: 10px 0;
+  }
+  .menu li a {
+    font-size: 20px;
+  }
+  .menu-toggle span {
+    display: block;
+    width: 30px;
+    height: 5px;
+    background-color: #fff;
+    margin: 5px 0;
+  }
+}
+.menu.slide-in {
+  display: flex;
+  animation: slide-in 0.5s forwards;
+}
+
+@keyframes slide-in {
+  from {
+    transform: translateY(-100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}

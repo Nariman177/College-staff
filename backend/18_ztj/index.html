@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="app">
+  		<form name="myForm" @submit.prevent="checkForm">
+  			<div class="form-row">
+  				<div class="form-group col-md-6">
+  					<label for="email" class="col-form-label">Email</label>
+  					<input v-model="email" type="email" name="email" class="form-control" id="email" placeholder="Email">
+          </div>
+  					<div class="form-group col-md-6">
+  						<label for="password" class="col-form-label">Password</label>
+  						<input v-model="pass" type="password" name="password" class="form-control" id="password" placeholder="Password">
+          </div>
+  					</div>
+  					<div class="form-group">
+  						<label for="address" class="col-form-label">Address</label>
+  						<textarea v-model="address" type="text" class="form-control" name="address" id="address" placeholder="1234 Main St"></textarea>
+  					</div>
+  					<div class="form-row">
+  						<div class="form-group col-md-6">
+  							<label for="city" class="col-form-label">City</label>
+  							<input v-model="city" type="text" class="form-control" name="city" id="city">
+              </div>
+  							<div class="form-group col-md-6">
+  								<label for="country" class="col-form-label">Country</label>
+  								<select v-model="country" id="country" name="country" class="form-control">
+                  <option>Choose</option>
+                  <option value="argentina">Argentina</option>
+                  <option value="russia">Russia</option>
+                  <option value="china">China</option>
+                </select>
+  							</div>
+  						</div>
+  						<div class="form-group">
+  							<div class="form-check">
+  								<label class="form-check-label" for="rules">
+                  <input v-model="acceptRules" id="rules" type="checkbox" name="acceptRules" class="form-check-input">
+                  Accept Rules
+                </label>
+  							</div>
+  						</div>
+  						<button type="submit" class="btn btn-primary" v-on:click="visibleFormAndAnswer">Sign in</button>
+  		</form>
+
+  		<div>
+  			<button type="button" class="btn btn-primary" v-show="visibleAnswer" v-on:click="visibleFormAndAnswer">Back</button>
+  			<table class="table" v-show="visibleAnswer">
+  				<tbody>
+  					<tr v-if="acceptRules">
+  						<td>acceptRules</td>
+  						<td>{{acceptRules}}</td>
+  					</tr>
+  					<tr v-if="address!=''">
+  						<td>address</td>
+  						<td>{{address}}</td>
+  					</tr>
+  					<tr v-if="city!=''">
+  						<td>city</td>
+  						<td>{{city}}</td>
+  					</tr>
+  					<tr v-if="country!='' && country!='Choose'">
+  						<td>country</td>
+  						<td>{{country}}</td>
+  					</tr>
+  					<tr v-if="email!=''">
+  						<td>email</td>
+  						<td>{{email}}</td>
+  					</tr>
+  					<tr v-if="pass!=''">
+  						<td>password</td>
+  						<td>{{pass}}</td>
+  					</tr>
+  				</tbody>
+  			</table>
+  		</div>
+  	</div>
+  	<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  	<script>
+  		const { createApp } = Vue
+    createApp({
+    data() {
+      return {
+      email: "",
+      pass: "",
+      address: "",
+      city: "",
+      country: "",
+      acceptRules: false,
+      visible: true,
+      visibleAnswer: false,
+      }
+    },
+    methods: {
+      checkForm: function (e) {
+
+      },
+      visibleFormAndAnswer: function (){
+        this.visible=!this.visible;
+        this.visibleAnswer=!this.visibleAnswer;
+      }
+    }
+    }).mount('#app')
+  	</script>
+
+
+
+
+  </body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>#3</title>
+  </head>
+  <body>
+
+<div class="content">
+  <h1>Category Name</h1>
+  <div class="description">Category Description</div>
+  <div class="links">
+    <div>
+      <h2><a href="#" onclick="sendFeedback()">Article Name 1</a></h2>
+      <div class=""><p>Article Description 1 ${title}</p></div>
+    </div>
+    <div>
+      <h2><a href="#" onclick="sendFeedback()">Article Name 2</a></h2>
+      <p>Article Description 2</p>
+    </div>
+  </div>
+</div>
+    <script>
+
+      function extractData(obj){
+
+        let db = [];
+        const blocks = obj.querySelectorAll('.content');
+
+        for(let i of blocks){
+            let item = {
+
+              title: i.querySelector('h1').innerHTML,
+
+              description: i.querySelector('.description').innerHTML,
+
+              items: ((x) => {
+                let arr = [];
+                x.querySelectorAll('.links div').forEach( (elem) => {
+                  arr.push({
+                    title: elem.querySelector('a').innerHTML,
+                    description: elem.querySelector('p').innerHTML
+                  });
+                });
+                return arr;
+              })(i)
+
+  }
+  db.push(item);
+ }
+ return db;
+ }
+
+ const data = extractData(document);
+ console.log(data);
+</script>
+  </body>
+</html>

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Notebook</title>
+    <link rel="stylesheet" href="css/nout.css">
+    <link rel="stylesheet" href="css/pb.css'">
+    <link rel="stylesheet" href="css/tabs.css">
+
+  </head>
+  <body>
+
+    <div class="modal-window">
+      <div class="modal-card">
+          <h2>Корзина</h2>
+        <i class="fas fa-window-close"></i>
+        <p>Добро пожаловать в корзину</p>
+        <div class="basket">
+          <div class="lor">
+            150$
+          </div>
+          <img src="img/laptop.jpg" alt="">
+          <div class="tt">
+            <p>Подойдет для учебы или работы: программистам, музыкантам,
+              фотографам, монтажерам и пр. MacBook имеет 8 Гб оперативной и
+              256 Гб (SSD) внутренней памяти.
+              Процессор Apple M1 – он по мощности сопоставим с MacBook Pro 16"
+              на Core i9 с 32 Гб оперативной памяти</p>
+          </div>
+        </div>
+        <button type="button" name="button" class="delete">Удалить</button>
+        <button type="button" name="button">Купить</button>
+      </div>
+    </div>
+
+  <div class="payment">
+      <div class="payment-card">
+          <h2>Форма оплаты</h2>
+        <i class="fa-solid fa-circle-xmark"></i>
+        <p>Добро пожаловать в форму оплаты</p>
+        <button type="button" name="button">по qr</button>
+        <button type="button" name="button">наличными</button>
+      </div>
+    </div>
+
+  <header id="up">
+      <div class="container">
+        <div class="header_content">
+          <div id="logo">Narik<span id="logo-s">тech</span></div>
+          <ol class="ullg">
+            <li><a href="/obrat">Хабарласу</a></li>
+            <li><a href="/smart">Cмартфоны</a></li>
+            <li><a href="/nout">Ноутбуки</a></li>
+            <li><a href="/kurs">Курстар</a></li>
+          </ol>
+      </div>
+      </div>
+    </header>
+    <section class="s5">
+      <div class="container">
+        <h2>Ноутбук секциясы</h2>
+        <p>Ноутбук көрсететін парақшаға қош келдіңіздер бұл жерде бағдарламашыға арналған ноутбуктар сатылады</p>
+          <div class="tabs">
+            <input id="tab1" type="radio" name="tabs" checked>
+            <label for="tab1" title="econom">econom</label>
+
+            <input id="tab2" type="radio" name="tabs">
+            <label for="tab2" title="expensiv">expensiv</label>
+
+            <section id="content-tab1">
+              <div class="shell">
+                  <div class="card">
+                      <h3><p>xps 13</p></h3>
+                  <div class="dollor">
+                    150$
+                  </div>
+                    <img src="{{ url_for('static', filename = 'img/xps_13.jpg')}}" alt="" class="s">
+                      <button type="button" name="button">кoрзина</button>
+                      <button type="button" name="button" class="pay">купить</button>
+                  </div>
+
+                  <div class="card">
+                      <h3><p>vivobook 15</p></h3>
+                      <div class="dollor">
+                         150$
+                      </div>
+                    <img src="{{url_for('static', filename = 'img/vivobook_15.jpg')}}" alt="" class="s">
+                      <button type="button" name="button">кoрзина</button>
+                      <button type="button" name="button" class="b1">купить</button>
+                  </div>
+
+                  <div class="card">
+                      <h3><p>huawei</p></h3>
+                      <div class="dollor">
+                       150$
+                      </div>
+                    <img src="{{url_for('static', filename = 'img/huawei.jpg')}}" alt="" class="s">
+                      <button type="button" name="button">кoрзина</button>
+                      <button type="button" name="button" class="b1">купить</button>
+                  </div>
+              </div>
+            </section>
+            <section id="content-tab2">
+              <div class="shell">
+                  <div class="card">
+                       <h3><p>xps_15</p></h3>
+                      <div class="dollor">
+                       150$
+                      </div>
+                    <img src="{{ url_for('static', filename = 'img/dell.jpg')}} " alt="">
+                       <button type="button" name="button">кoрзина</button>
+                      <button type="button" name="button" class="b1">купить</button>
+                  </div>
+
+                   <div class="card">
+                        <h3><p>mac</p></h3>
+                      <div class="dollor">
+                       150$
+                      </div>
+                    <img src="img/orig.jpg" alt="">
+                        <button type="button" name="button">кoрзина</button>
+                         <button type="button" name="button" class="b1">купить</button>
+                  </div>
+
+                  <div class="card">
+                       <h3><p>Macbook Air</p></h3>
+                      <div class="dollor">
+                       150$
+                      </div>
+                    <img src="img/Pro_16.jpg" alt="">
+                       <button type="button" name="button">кoрзина</button>
+                       <button type="button" name="button" class="b1">купить</button>
+                  </div>
+              </div>
+            </section>
+          </div>
+      </div>
+    </section>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<script type="text/javascript" src="js/smart.js"></script>
+  </body>
+</html>

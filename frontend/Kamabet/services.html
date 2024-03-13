@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Сервистер</title>
+    <link rel="icon" type="png" href="img/logo.jpg">
+    <link rel="stylesheet" href="css/services.css">
+    <script src="https://kit.fontawesome.com/67d2ef7984.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <nav>
+      <div id="logo">Kaman<span id="logo-s">abet</span></div>
+        <div class="menu-toggle">
+          <span></span>
+          <span></span>
+          <span></span>
+       </div>
+         <ul class="menu">
+            <li><a href="about.html">Біз туралы</a></li>
+            <li><a href="index.html">басты бет</a></li>
+            <li><a href="contact.html">Кері байланыс</a></li>
+          </ul>
+    </nav>
+    <section class="services">
+      <div class="card">
+      <div class="face front">
+          <img src="img/tf5.png" alt="">
+          <h3>Қатпарлы торт</h3>
+      </div>
+      <div class="face back">
+          <h3>Қатпарлы торт</h3>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius harum molestiae iste, nihil doloribus fugiat distinctio ducimus maxime totam nulla fuga odio non aperiam eos?</p>
+          <div class="link">
+              <a href="#">Тапсырыс беру</a>
+          </div>
+      </div>
+  </div>
+
+  <div class="card">
+      <div class="face front">
+          <img src="img/tf6.png" alt="">
+          <h3>Ванильді торт</h3>
+      </div>
+      <div class="face back">
+          <h3>Ванильді торт</h3>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius harum molestiae iste, nihil doloribus fugiat distinctio ducimus maxime totam nulla fuga odio non aperiam eos?</p>
+          <div class="link">
+              <a href="#">Тапсырыс беру</a>
+          </div>
+      </div>
+  </div>
+
+  <div class="card">
+      <div class="face front">
+          <img src="img/tf7.png" alt="">
+          <h3>Сабан пирогы</h3>
+      </div>
+      <div class="face back">
+          <h3>Сабан пирогы</h3>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius harum molestiae iste, nihil doloribus fugiat distinctio ducimus maxime totam nulla fuga odio non aperiam eos?</p>
+          <div class="link">
+              <a href="#">Тапсырыс беру</a>
+          </div>
+      </div>
+  </div>
+    </section>
+    <section class="extra" id="fas fa-arrow-up">
+    <ol>
+      <li><i class="fab fa-whatsapp"></i>WhatsAPP</li>
+        <li><i class="fas fa-at"></i>kiminobet@gmail.com</li>
+        <li><i class="fas fa-phone"></i>80 60 4568 55 65</li>
+        <li><i class="fab fa-instagram"></i>Instagram</li>
+    </ol>
+  </section>
+  <script>
+      const toggle = document.querySelector(".menu-toggle");
+      const menu = document.querySelector(".menu");
+
+        toggle.addEventListener("click", function () {
+          menu.classList.toggle("slide-in");
+        });
+  </script>
+  </body>
+</html>

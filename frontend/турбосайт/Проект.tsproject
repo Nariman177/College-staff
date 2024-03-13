@@ -1,0 +1,63 @@
+﻿[project]
+type=TurboSite 1.7 project
+olddir=C:\Users\narim\OneDrive\Рабочий стол\турбосайт\
+themedirname=Atomohost
+Extension=html
+pagecount=0
+blockcount=3
+SiteTitle=ооппи
+
+[FTP]
+Dir=/
+Passive=1
+
+[pages]
+index=Главная
+
+[mainmenu]
+index=1
+
+[pagemenu]
+index=1
+
+[ContactForm]
+index=0
+
+[SocialIcons]
+index=0
+
+[Comments]
+index=0
+
+[titlebold]
+index=0
+
+[OwnDescriptionCheck]
+index=0
+
+[OwnKeywordsCheck]
+index=0
+
+[OwnTitleCheck]
+index=0
+
+[OwnDescription]
+index=
+
+[OwnKeywords]
+index=
+
+[OwnTitle]
+index=
+
+[PageRedirURL]
+index=
+
+[DisplayTestResult]
+index=1
+
+[blocks]
+block1=Новый блок
+block2=Новый блок
+block3=Новый блок
+

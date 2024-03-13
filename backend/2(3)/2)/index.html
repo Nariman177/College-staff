@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Document</title>
+  </head>
+  <body>
+    <template id="template-picture">
+       <div>
+         <h1>{{title}}</h1>
+         <img :src="picture_url" :alt="title" width="150">
+       </div>
+    </template>
+    <div id="main">
+      <picture-card v-for="(picture,index) in pictures" : key = "index" :title="picture.title" :picture_url="picture.picture_url">
+      </picture-card>
+    </div>
+    <script src="app.js"></script>
+    <script src="https://cdn.jsdelvir.net/npm/vue/dist/vue.js"></script>
+  </body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Піл сатып алу</title>
+    <script type="text/javascript">
+      function valid(form){
+        var fail = false;
+        var name = form.name.value;
+        var password = form.password.value;
+        var RePassword = form.RePassword.value;
+        var state = form.state.value;
+        if (name == "" || name == "") {
+          fail = "Сіз аты жөніңізді енгізбедіңіз !!!";
+        }
+        else if (password == "") {
+          fail = "Сіз парольді енгізбедіңіз";
+        }
+        else if (password != RePassword) {
+          fail = "Пароль сәйкес емес!!!";
+        }
+        else if (state == "") {
+          fail = "Жынысынды ауыстыр";
+        }
+        if (fail) {
+          alert(fail);
+        }
+
+      }
+
+    </script>
+
+  </head>
+  <body>
+    <form action="index.html" method="post" name="test" onsubmit="valid(this)" id="form">
+        <label for="name">Аты жөні</label>
+        <input type="text" name="" value="" placeholder="Аты жөні" id="name">
+        <br/>
+        <br/>
+        <label for="password">E-Mail</label>
+        <input type="E-Mail" name="" value="" placeholder="Е-Mail" id="RePassword">
+        <br>
+        <br>
+        <label for="RePassword">Пілді алу себебіңіз:</label>
+        <textarea name="name" rows="8" cols="80" placeholder="пілді алу себебіңіз"></textarea>
+        <br>
+        <br>
+        <span>Пілдің Жынысы</span>
+        <input type="radio" name="state" id="male" value="Ep">
+        <label for="male">Ep</label>
+        <input type="radio" name="state" id="female" value="Әйел">
+        <label for="female">Әйел</label>
+        <br>
+        <button type="button" name="button" onclick="valid(document.getElementById('form'))" name ="submit">жіберу</button>
+    </form>
+
+
+  </body>
+</html>

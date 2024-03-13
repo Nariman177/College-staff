@@ -1,0 +1,53 @@
+.icon-cat {
+    height: 32px;
+    width: 32px;
+    background: url("https://media.istockphoto.com/id/1217828258/photo/grey-stripped-mixed-breed-cat-sitting-isolated-on-white.jpg?s=612x612&w=0&k=20&c=ZdsQKhn9NqMm8KQ-AlpT7D7E0SBv9pNJF-Sbs-j91R0=");
+    }
+    
+    .icon-dog {
+    height: 32px;
+    width: 32px;
+    background: url("https://cdn.pixabay.com/photo/2016/02/19/15/46/labrador-retriever-1210559__340.jpg");
+    }
+    
+    .icon-whale {
+    height: 32px;
+    width: 32px;
+    background: url("https://cdn.britannica.com/37/75637-050-B425E8F1/Killer-whale.jpg");
+    }
+    
+    .icon-bird {
+    height: 32px;
+    width: 32px;
+    background: url("https://images.pexels.com/photos/349758/hummingbird-bird-birds-349758.jpeg?cs=srgb&dl=pexels-pixabay-349758.jpg&fm=jpg");
+    }
+    
+    .icon-fish {
+    height: 32px;
+    width: 32px;
+    background: url("https://media.istockphoto.com/id/1368239780/photo/clown-fish.jpg?b=1&s=170667a&w=0&k=20&c=mBdC45x6navTxLRmA7_k7srPFGvbQmaBf6HINhwkE-Q=");
+    }
+.square-10 {
+    display: block;
+    width: 10px;
+    height: 10px;
+  }
+  
+  .square-20 {
+    display: block;
+    width: 20px;
+    height: 20px;
+  }
+  
+  .square-30 {
+    display: block;
+    width: 30px;
+    height: 30px;
+  }
+  
+  .square-40 {
+    display: block;
+    width: 40px;
+    height: 40px;
+  }
+  
