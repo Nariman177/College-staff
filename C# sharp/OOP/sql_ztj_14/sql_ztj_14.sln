@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sql_ztj_14", "sql_ztj_14.csproj", "{64081D44-9AA6-4F92-BE8F-F2A18DB277FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64081D44-9AA6-4F92-BE8F-F2A18DB277FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64081D44-9AA6-4F92-BE8F-F2A18DB277FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64081D44-9AA6-4F92-BE8F-F2A18DB277FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64081D44-9AA6-4F92-BE8F-F2A18DB277FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADD97B5B-CADB-4C6E-A084-15537978CDA5}
+	EndGlobalSection
+EndGlobal

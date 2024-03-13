@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\string\Trim\Trim\bin\Debug\Trim.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\string\Trim\Trim\bin\Debug\Trim.exe
+C:\Users\narim\OneDrive\Рабочий стол\string\Trim\Trim\bin\Debug\Trim.pdb
+C:\Users\narim\OneDrive\Рабочий стол\string\Trim\Trim\obj\Debug\Trim.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\Trim\Trim\obj\Debug\Trim.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\Trim\Trim\obj\Debug\Trim.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\Trim\Trim\obj\Debug\Trim.exe
+C:\Users\narim\OneDrive\Рабочий стол\string\Trim\Trim\obj\Debug\Trim.pdb

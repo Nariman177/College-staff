@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\ztj_1\ztj_1\obj\Debug\ztj_1.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\ztj_1\ztj_1\obj\Debug\ztj_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\ztj_1\ztj_1\obj\Debug\ztj_1.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\ztj_1\ztj_1\bin\Debug\ztj_1.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\ztj_1\ztj_1\bin\Debug\ztj_1.exe
+C:\Users\narim\OneDrive\Рабочий стол\ztj_1\ztj_1\bin\Debug\ztj_1.pdb
+C:\Users\narim\OneDrive\Рабочий стол\ztj_1\ztj_1\obj\Debug\ztj_1.exe
+C:\Users\narim\OneDrive\Рабочий стол\ztj_1\ztj_1\obj\Debug\ztj_1.pdb

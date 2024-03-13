@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\Events\Events\bin\Debug\Events.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\Events\Events\bin\Debug\Events.exe
+C:\Users\narim\OneDrive\Рабочий стол\Events\Events\bin\Debug\Events.pdb
+C:\Users\narim\OneDrive\Рабочий стол\Events\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\Events\Events\obj\Debug\Events.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\Events\Events\obj\Debug\Events.exe
+C:\Users\narim\OneDrive\Рабочий стол\Events\Events\obj\Debug\Events.pdb

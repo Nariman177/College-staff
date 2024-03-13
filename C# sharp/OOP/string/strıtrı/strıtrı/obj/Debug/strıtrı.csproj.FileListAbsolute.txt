@@ -1,0 +1,11 @@
+C:\Users\narim\OneDrive\Рабочий стол\string\strıtrı\strıtrı\bin\Debug\strıtrı.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\string\strıtrı\strıtrı\bin\Debug\strıtrı.exe
+C:\Users\narim\OneDrive\Рабочий стол\string\strıtrı\strıtrı\bin\Debug\strıtrı.pdb
+C:\Users\narim\OneDrive\Рабочий стол\string\strıtrı\strıtrı\obj\Debug\strıtrı.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\strıtrı\strıtrı\obj\Debug\strıtrı.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\strıtrı\strıtrı\obj\Debug\strıtrı.Form1.resources
+C:\Users\narim\OneDrive\Рабочий стол\string\strıtrı\strıtrı\obj\Debug\strıtrı.Properties.Resources.resources
+C:\Users\narim\OneDrive\Рабочий стол\string\strıtrı\strıtrı\obj\Debug\strıtrı.csproj.GenerateResource.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\strıtrı\strıtrı\obj\Debug\strıtrı.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\strıtrı\strıtrı\obj\Debug\strıtrı.exe
+C:\Users\narim\OneDrive\Рабочий стол\string\strıtrı\strıtrı\obj\Debug\strıtrı.pdb

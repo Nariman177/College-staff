@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\Firma\Firma\bin\Debug\Firma.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\Firma\Firma\bin\Debug\Firma.exe
+C:\Users\narim\OneDrive\Рабочий стол\Firma\Firma\bin\Debug\Firma.pdb
+C:\Users\narim\OneDrive\Рабочий стол\Firma\Firma\obj\Debug\Firma.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\Firma\Firma\obj\Debug\Firma.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\Firma\Firma\obj\Debug\Firma.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\Firma\Firma\obj\Debug\Firma.exe
+C:\Users\narim\OneDrive\Рабочий стол\Firma\Firma\obj\Debug\Firma.pdb

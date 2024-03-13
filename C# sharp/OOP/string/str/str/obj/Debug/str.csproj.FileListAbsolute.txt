@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\string\str\str\bin\Debug\str.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\string\str\str\bin\Debug\str.exe
+C:\Users\narim\OneDrive\Рабочий стол\string\str\str\bin\Debug\str.pdb
+C:\Users\narim\OneDrive\Рабочий стол\string\str\str\obj\Debug\str.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\str\str\obj\Debug\str.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\str\str\obj\Debug\str.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\str\str\obj\Debug\str.exe
+C:\Users\narim\OneDrive\Рабочий стол\string\str\str\obj\Debug\str.pdb

@@ -1,0 +1,16 @@
+C:\Users\narim\OneDrive\Рабочий стол\string\string_s1\string_s1\bin\Debug\string_s1.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\string\string_s1\string_s1\bin\Debug\string_s1.exe
+C:\Users\narim\OneDrive\Рабочий стол\string\string_s1\string_s1\bin\Debug\string_s1.pdb
+C:\Users\narim\OneDrive\Рабочий стол\string\string_s1\string_s1\obj\Debug\string_s1.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\string_s1\string_s1\obj\Debug\string_s1.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\string_s1\string_s1\obj\Debug\string_s1.Form1.resources
+C:\Users\narim\OneDrive\Рабочий стол\string\string_s1\string_s1\obj\Debug\string_s1.Properties.Resources.resources
+C:\Users\narim\OneDrive\Рабочий стол\string\string_s1\string_s1\obj\Debug\string_s1.csproj.GenerateResource.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\string_s1\string_s1\obj\Debug\string_s1.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\string_s1\string_s1\obj\Debug\string_s1.exe
+C:\Users\narim\OneDrive\Рабочий стол\string\string_s1\string_s1\obj\Debug\string_s1.pdb
+C:\Users\narim\OneDrive\Рабочий стол\string\string_s1\string_s1\obj\Debug\string_s1.Form2.resources
+C:\Users\narim\OneDrive\Рабочий стол\string\string_s1\string_s1\obj\Debug\string_s1.Form3.resources
+C:\Users\narim\OneDrive\Рабочий стол\string\string_s1\string_s1\obj\Debug\string_s1.Form4.resources
+C:\Users\narim\OneDrive\Рабочий стол\string\string_s1\string_s1\obj\Debug\string_s1.Form5.resources
+C:\Users\narim\OneDrive\Рабочий стол\string\string_s1\string_s1\obj\Debug\string_s1.Form6.resources

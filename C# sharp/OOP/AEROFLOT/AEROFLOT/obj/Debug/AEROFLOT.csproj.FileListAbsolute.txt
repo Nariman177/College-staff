@@ -1,0 +1,11 @@
+C:\Users\narim\OneDrive\Рабочий стол\AEROFLOT\AEROFLOT\bin\Debug\AEROFLOT.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\AEROFLOT\AEROFLOT\bin\Debug\AEROFLOT.exe
+C:\Users\narim\OneDrive\Рабочий стол\AEROFLOT\AEROFLOT\bin\Debug\AEROFLOT.pdb
+C:\Users\narim\OneDrive\Рабочий стол\AEROFLOT\AEROFLOT\obj\Debug\AEROFLOT.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\AEROFLOT\AEROFLOT\obj\Debug\AEROFLOT.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\AEROFLOT\AEROFLOT\obj\Debug\AEROFLOT.Form1.resources
+C:\Users\narim\OneDrive\Рабочий стол\AEROFLOT\AEROFLOT\obj\Debug\AEROFLOT.Properties.Resources.resources
+C:\Users\narim\OneDrive\Рабочий стол\AEROFLOT\AEROFLOT\obj\Debug\AEROFLOT.csproj.GenerateResource.cache
+C:\Users\narim\OneDrive\Рабочий стол\AEROFLOT\AEROFLOT\obj\Debug\AEROFLOT.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\AEROFLOT\AEROFLOT\obj\Debug\AEROFLOT.exe
+C:\Users\narim\OneDrive\Рабочий стол\AEROFLOT\AEROFLOT\obj\Debug\AEROFLOT.pdb

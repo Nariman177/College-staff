@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\Hp\Hp\bin\Debug\Hp.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\Hp\Hp\bin\Debug\Hp.exe
+C:\Users\narim\OneDrive\Рабочий стол\Hp\Hp\bin\Debug\Hp.pdb
+C:\Users\narim\OneDrive\Рабочий стол\Hp\Hp\obj\Debug\Hp.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\Hp\Hp\obj\Debug\Hp.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\Hp\Hp\obj\Debug\Hp.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\Hp\Hp\obj\Debug\Hp.exe
+C:\Users\narim\OneDrive\Рабочий стол\Hp\Hp\obj\Debug\Hp.pdb

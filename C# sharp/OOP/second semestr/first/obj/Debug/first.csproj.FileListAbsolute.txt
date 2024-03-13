@@ -1,0 +1,16 @@
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\first\bin\Debug\first.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\first\bin\Debug\first.exe
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\first\bin\Debug\first.pdb
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\first\obj\Debug\first.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\first\obj\Debug\first.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\first\obj\Debug\first.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\first\obj\Debug\first.exe
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\first\obj\Debug\first.pdb
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\second semestr\first\bin\Debug\first.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\second semestr\first\bin\Debug\first.exe
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\second semestr\first\bin\Debug\first.pdb
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\second semestr\first\obj\Debug\first.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\second semestr\first\obj\Debug\first.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\second semestr\first\obj\Debug\first.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\second semestr\first\obj\Debug\first.exe
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\second semestr\first\obj\Debug\first.pdb

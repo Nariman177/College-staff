@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\string\Substring\Substring\bin\Debug\Substring.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\string\Substring\Substring\bin\Debug\Substring.exe
+C:\Users\narim\OneDrive\Рабочий стол\string\Substring\Substring\bin\Debug\Substring.pdb
+C:\Users\narim\OneDrive\Рабочий стол\string\Substring\Substring\obj\Debug\Substring.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\Substring\Substring\obj\Debug\Substring.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\Substring\Substring\obj\Debug\Substring.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\Substring\Substring\obj\Debug\Substring.exe
+C:\Users\narim\OneDrive\Рабочий стол\string\Substring\Substring\obj\Debug\Substring.pdb

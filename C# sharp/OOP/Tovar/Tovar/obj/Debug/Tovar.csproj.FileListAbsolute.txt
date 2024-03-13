@@ -1,0 +1,11 @@
+C:\Users\narim\OneDrive\Рабочий стол\Tovar\Tovar\bin\Debug\Tovar.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\Tovar\Tovar\bin\Debug\Tovar.exe
+C:\Users\narim\OneDrive\Рабочий стол\Tovar\Tovar\bin\Debug\Tovar.pdb
+C:\Users\narim\OneDrive\Рабочий стол\Tovar\Tovar\obj\Debug\Tovar.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\Tovar\Tovar\obj\Debug\Tovar.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\Tovar\Tovar\obj\Debug\Tovar.Form1.resources
+C:\Users\narim\OneDrive\Рабочий стол\Tovar\Tovar\obj\Debug\Tovar.Properties.Resources.resources
+C:\Users\narim\OneDrive\Рабочий стол\Tovar\Tovar\obj\Debug\Tovar.csproj.GenerateResource.cache
+C:\Users\narim\OneDrive\Рабочий стол\Tovar\Tovar\obj\Debug\Tovar.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\Tovar\Tovar\obj\Debug\Tovar.exe
+C:\Users\narim\OneDrive\Рабочий стол\Tovar\Tovar\obj\Debug\Tovar.pdb

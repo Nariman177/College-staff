@@ -1,0 +1,11 @@
+C:\Users\narim\OneDrive\Рабочий стол\oop massivv\oop massivv\bin\Debug\oop massivv.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\oop massivv\oop massivv\bin\Debug\oop massivv.exe
+C:\Users\narim\OneDrive\Рабочий стол\oop massivv\oop massivv\bin\Debug\oop massivv.pdb
+C:\Users\narim\OneDrive\Рабочий стол\oop massivv\oop massivv\obj\Debug\oop massivv.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\oop massivv\oop massivv\obj\Debug\oop massivv.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\oop massivv\oop massivv\obj\Debug\oop_massivv.Form1.resources
+C:\Users\narim\OneDrive\Рабочий стол\oop massivv\oop massivv\obj\Debug\oop_massivv.Properties.Resources.resources
+C:\Users\narim\OneDrive\Рабочий стол\oop massivv\oop massivv\obj\Debug\oop massivv.csproj.GenerateResource.cache
+C:\Users\narim\OneDrive\Рабочий стол\oop massivv\oop massivv\obj\Debug\oop massivv.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\oop massivv\oop massivv\obj\Debug\oop massivv.exe
+C:\Users\narim\OneDrive\Рабочий стол\oop massivv\oop massivv\obj\Debug\oop massivv.pdb

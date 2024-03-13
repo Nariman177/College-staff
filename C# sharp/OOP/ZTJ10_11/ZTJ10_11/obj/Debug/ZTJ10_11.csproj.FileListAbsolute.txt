@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\ZTJ10_11\ZTJ10_11\bin\Debug\ZTJ10_11.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\ZTJ10_11\ZTJ10_11\bin\Debug\ZTJ10_11.exe
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\ZTJ10_11\ZTJ10_11\bin\Debug\ZTJ10_11.pdb
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\ZTJ10_11\ZTJ10_11\obj\Debug\ZTJ10_11.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\ZTJ10_11\ZTJ10_11\obj\Debug\ZTJ10_11.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\ZTJ10_11\ZTJ10_11\obj\Debug\ZTJ10_11.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\ZTJ10_11\ZTJ10_11\obj\Debug\ZTJ10_11.exe
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\ZTJ10_11\ZTJ10_11\obj\Debug\ZTJ10_11.pdb

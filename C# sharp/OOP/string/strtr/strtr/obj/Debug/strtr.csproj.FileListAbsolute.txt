@@ -1,0 +1,11 @@
+C:\Users\narim\OneDrive\Рабочий стол\string\strtr\strtr\bin\Debug\strtr.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\string\strtr\strtr\bin\Debug\strtr.exe
+C:\Users\narim\OneDrive\Рабочий стол\string\strtr\strtr\bin\Debug\strtr.pdb
+C:\Users\narim\OneDrive\Рабочий стол\string\strtr\strtr\obj\Debug\strtr.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\strtr\strtr\obj\Debug\strtr.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\strtr\strtr\obj\Debug\strtr.Form1.resources
+C:\Users\narim\OneDrive\Рабочий стол\string\strtr\strtr\obj\Debug\strtr.Properties.Resources.resources
+C:\Users\narim\OneDrive\Рабочий стол\string\strtr\strtr\obj\Debug\strtr.csproj.GenerateResource.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\strtr\strtr\obj\Debug\strtr.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\strtr\strtr\obj\Debug\strtr.exe
+C:\Users\narim\OneDrive\Рабочий стол\string\strtr\strtr\obj\Debug\strtr.pdb

@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\Directoiry\Directoiry\bin\Debug\Directoiry.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\Directoiry\Directoiry\bin\Debug\Directoiry.exe
+C:\Users\narim\OneDrive\Рабочий стол\Directoiry\Directoiry\bin\Debug\Directoiry.pdb
+C:\Users\narim\OneDrive\Рабочий стол\Directoiry\Directoiry\obj\Debug\Directoiry.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\Directoiry\Directoiry\obj\Debug\Directoiry.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\Directoiry\Directoiry\obj\Debug\Directoiry.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\Directoiry\Directoiry\obj\Debug\Directoiry.exe
+C:\Users\narim\OneDrive\Рабочий стол\Directoiry\Directoiry\obj\Debug\Directoiry.pdb

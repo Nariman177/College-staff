@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\HomoSapiens\HomoSapiens\bin\Debug\HomoSapiens.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\HomoSapiens\HomoSapiens\bin\Debug\HomoSapiens.exe
+C:\Users\narim\OneDrive\Рабочий стол\HomoSapiens\HomoSapiens\bin\Debug\HomoSapiens.pdb
+C:\Users\narim\OneDrive\Рабочий стол\HomoSapiens\HomoSapiens\obj\Debug\HomoSapiens.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\HomoSapiens\HomoSapiens\obj\Debug\HomoSapiens.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\HomoSapiens\HomoSapiens\obj\Debug\HomoSapiens.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\HomoSapiens\HomoSapiens\obj\Debug\HomoSapiens.exe
+C:\Users\narim\OneDrive\Рабочий стол\HomoSapiens\HomoSapiens\obj\Debug\HomoSapiens.pdb

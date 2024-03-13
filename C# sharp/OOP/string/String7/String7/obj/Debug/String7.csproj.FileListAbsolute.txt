@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\string\String7\String7\bin\Debug\String7.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\string\String7\String7\bin\Debug\String7.exe
+C:\Users\narim\OneDrive\Рабочий стол\string\String7\String7\bin\Debug\String7.pdb
+C:\Users\narim\OneDrive\Рабочий стол\string\String7\String7\obj\Debug\String7.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\String7\String7\obj\Debug\String7.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\String7\String7\obj\Debug\String7.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\String7\String7\obj\Debug\String7.exe
+C:\Users\narim\OneDrive\Рабочий стол\string\String7\String7\obj\Debug\String7.pdb

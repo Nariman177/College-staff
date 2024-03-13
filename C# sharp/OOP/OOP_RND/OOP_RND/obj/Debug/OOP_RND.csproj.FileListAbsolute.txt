@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\OOP_RND\OOP_RND\bin\Debug\OOP_RND.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\OOP_RND\OOP_RND\bin\Debug\OOP_RND.exe
+C:\Users\narim\OneDrive\Рабочий стол\OOP_RND\OOP_RND\bin\Debug\OOP_RND.pdb
+C:\Users\narim\OneDrive\Рабочий стол\OOP_RND\OOP_RND\obj\Debug\OOP_RND.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\OOP_RND\OOP_RND\obj\Debug\OOP_RND.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\OOP_RND\OOP_RND\obj\Debug\OOP_RND.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\OOP_RND\OOP_RND\obj\Debug\OOP_RND.exe
+C:\Users\narim\OneDrive\Рабочий стол\OOP_RND\OOP_RND\obj\Debug\OOP_RND.pdb

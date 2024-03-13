@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\Delegete\Delegete\bin\Debug\Delegete.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\Delegete\Delegete\bin\Debug\Delegete.exe
+C:\Users\narim\OneDrive\Рабочий стол\Delegete\Delegete\bin\Debug\Delegete.pdb
+C:\Users\narim\OneDrive\Рабочий стол\Delegete\Delegete\obj\Debug\Delegete.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\Delegete\Delegete\obj\Debug\Delegete.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\Delegete\Delegete\obj\Debug\Delegete.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\Delegete\Delegete\obj\Debug\Delegete.exe
+C:\Users\narim\OneDrive\Рабочий стол\Delegete\Delegete\obj\Debug\Delegete.pdb

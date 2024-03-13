@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\ZTJ 5 OOP\ZTJ 5 OOP\bin\Debug\ZTJ 5 OOP.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\ZTJ 5 OOP\ZTJ 5 OOP\bin\Debug\ZTJ 5 OOP.exe
+C:\Users\narim\OneDrive\Рабочий стол\ZTJ 5 OOP\ZTJ 5 OOP\bin\Debug\ZTJ 5 OOP.pdb
+C:\Users\narim\OneDrive\Рабочий стол\ZTJ 5 OOP\ZTJ 5 OOP\obj\Debug\ZTJ 5 OOP.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\ZTJ 5 OOP\ZTJ 5 OOP\obj\Debug\ZTJ 5 OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\ZTJ 5 OOP\ZTJ 5 OOP\obj\Debug\ZTJ 5 OOP.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\ZTJ 5 OOP\ZTJ 5 OOP\obj\Debug\ZTJ 5 OOP.exe
+C:\Users\narim\OneDrive\Рабочий стол\ZTJ 5 OOP\ZTJ 5 OOP\obj\Debug\ZTJ 5 OOP.pdb

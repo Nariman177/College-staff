@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\Призма\Призма\bin\Debug\Призма.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\Призма\Призма\bin\Debug\Призма.exe
+C:\Users\narim\OneDrive\Рабочий стол\Призма\Призма\bin\Debug\Призма.pdb
+C:\Users\narim\OneDrive\Рабочий стол\Призма\Призма\obj\Debug\Призма.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\Призма\Призма\obj\Debug\Призма.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\Призма\Призма\obj\Debug\Призма.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\Призма\Призма\obj\Debug\Призма.exe
+C:\Users\narim\OneDrive\Рабочий стол\Призма\Призма\obj\Debug\Призма.pdb

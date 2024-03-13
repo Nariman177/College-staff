@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\string\split\split\bin\Debug\split.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\string\split\split\bin\Debug\split.exe
+C:\Users\narim\OneDrive\Рабочий стол\string\split\split\bin\Debug\split.pdb
+C:\Users\narim\OneDrive\Рабочий стол\string\split\split\obj\Debug\split.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\split\split\obj\Debug\split.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\split\split\obj\Debug\split.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\string\split\split\obj\Debug\split.exe
+C:\Users\narim\OneDrive\Рабочий стол\string\split\split\obj\Debug\split.pdb

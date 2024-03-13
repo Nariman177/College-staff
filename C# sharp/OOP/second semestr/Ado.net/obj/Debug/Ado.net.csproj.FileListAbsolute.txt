@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ooп пара\Ado.net\bin\Debug\Ado.net.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ooп пара\Ado.net\bin\Debug\Ado.net.exe
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ooп пара\Ado.net\bin\Debug\Ado.net.pdb
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ooп пара\Ado.net\obj\Debug\Ado.net.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ooп пара\Ado.net\obj\Debug\Ado.net.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ooп пара\Ado.net\obj\Debug\Ado.net.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ooп пара\Ado.net\obj\Debug\Ado.net.exe
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ooп пара\Ado.net\obj\Debug\Ado.net.pdb

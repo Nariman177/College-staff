@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\Machine\Machine\bin\Debug\Machine.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\Machine\Machine\bin\Debug\Machine.exe
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\Machine\Machine\bin\Debug\Machine.pdb
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\Machine\Machine\obj\Debug\Machine.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\Machine\Machine\obj\Debug\Machine.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\Machine\Machine\obj\Debug\Machine.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\Machine\Machine\obj\Debug\Machine.exe
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\Machine\Machine\obj\Debug\Machine.pdb

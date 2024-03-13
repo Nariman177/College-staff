@@ -1,0 +1,22 @@
+﻿<Window x:Class="ztj_14.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ztj_14"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Margin="69,47,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" x:Name="name_txt"/>
+        <TextBox x:Name="age_txt" Margin="69,80,611,331"/>
+        <TextBox x:Name="gender_txt" Margin="69,126,611,282" RenderTransformOrigin="0.78,-0.244"/>
+        <TextBox x:Name="city_txt" Margin="69,0,611,234" Height="22" VerticalAlignment="Bottom"/>
+        <TextBox x:Name="search_txt" Margin="69,217,611,183" />
+        <DataGrid x:Name="datagrid" Height="135" VerticalAlignment="Top" Margin="278,10,31,0" />
+        <Button Content="Insert" x:Name="InsertBtn" Click="InsertBtn_Click" HorizontalAlignment="Left" Margin="95,374,0,0" VerticalAlignment="Top" Height="32" Width="94"/>
+        <Button Content="Update" x:Name="UpdateBtn" Click="UpdatetBtn_Click" HorizontalAlignment="Left" Margin="278,374,0,0" VerticalAlignment="Top" Height="32" Width="95" RenderTransformOrigin="0.435,0.564"/>
+        <Button Content="Delete" x:Name="DeleteBtn"  Click="DeleteBtn_Click" HorizontalAlignment="Left" Margin="428,374,0,0" VerticalAlignment="Top" Height="32" Width="96"/>
+        <Button Content="Clear" x:Name="ClearBtn" Click="ClearBtn_Click" HorizontalAlignment="Left" Margin="596,374,0,0" VerticalAlignment="Top" Height="32" Width="95"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,11 @@
+C:\Users\narim\OneDrive\Рабочий стол\AiP\program\program\obj\Debug\program.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\AiP\program\program\obj\Debug\program.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\AiP\program\program\obj\Debug\program.Form1.resources
+C:\Users\narim\OneDrive\Рабочий стол\AiP\program\program\obj\Debug\program.Properties.Resources.resources
+C:\Users\narim\OneDrive\Рабочий стол\AiP\program\program\obj\Debug\program.csproj.GenerateResource.cache
+C:\Users\narim\OneDrive\Рабочий стол\AiP\program\program\obj\Debug\program.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\AiP\program\program\bin\Debug\program.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\AiP\program\program\bin\Debug\program.exe
+C:\Users\narim\OneDrive\Рабочий стол\AiP\program\program\bin\Debug\program.pdb
+C:\Users\narim\OneDrive\Рабочий стол\AiP\program\program\obj\Debug\program.exe
+C:\Users\narim\OneDrive\Рабочий стол\AiP\program\program\obj\Debug\program.pdb

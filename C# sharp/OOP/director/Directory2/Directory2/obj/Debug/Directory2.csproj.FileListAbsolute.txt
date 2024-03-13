@@ -1,0 +1,16 @@
+C:\Users\narim\OneDrive\Рабочий стол\Directory2\Directory2\bin\Debug\Directory2.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\Directory2\Directory2\bin\Debug\Directory2.exe
+C:\Users\narim\OneDrive\Рабочий стол\Directory2\Directory2\bin\Debug\Directory2.pdb
+C:\Users\narim\OneDrive\Рабочий стол\Directory2\Directory2\obj\Debug\Directory2.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\Directory2\Directory2\obj\Debug\Directory2.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\Directory2\Directory2\obj\Debug\Directory2.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\Directory2\Directory2\obj\Debug\Directory2.exe
+C:\Users\narim\OneDrive\Рабочий стол\Directory2\Directory2\obj\Debug\Directory2.pdb
+C:\Users\narim\OneDrive\Рабочий стол\director\Directory2\Directory2\bin\Debug\Directory2.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\director\Directory2\Directory2\bin\Debug\Directory2.exe
+C:\Users\narim\OneDrive\Рабочий стол\director\Directory2\Directory2\bin\Debug\Directory2.pdb
+C:\Users\narim\OneDrive\Рабочий стол\director\Directory2\Directory2\obj\Debug\Directory2.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\director\Directory2\Directory2\obj\Debug\Directory2.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\director\Directory2\Directory2\obj\Debug\Directory2.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\director\Directory2\Directory2\obj\Debug\Directory2.exe
+C:\Users\narim\OneDrive\Рабочий стол\director\Directory2\Directory2\obj\Debug\Directory2.pdb

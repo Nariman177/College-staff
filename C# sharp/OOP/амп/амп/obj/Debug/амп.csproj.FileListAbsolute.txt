@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\амп\амп\bin\Debug\амп.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\амп\амп\bin\Debug\амп.exe
+C:\Users\narim\OneDrive\Рабочий стол\амп\амп\bin\Debug\амп.pdb
+C:\Users\narim\OneDrive\Рабочий стол\амп\амп\obj\Debug\амп.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\амп\амп\obj\Debug\амп.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\амп\амп\obj\Debug\амп.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\амп\амп\obj\Debug\амп.exe
+C:\Users\narim\OneDrive\Рабочий стол\амп\амп\obj\Debug\амп.pdb

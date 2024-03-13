@@ -1,0 +1,22 @@
+C:\Users\Ansar\source\repos\obb12\obb12\bin\Debug\obb12.exe.config
+C:\Users\Ansar\source\repos\obb12\obb12\bin\Debug\obb12.exe
+C:\Users\Ansar\source\repos\obb12\obb12\bin\Debug\obb12.pdb
+C:\Users\Ansar\source\repos\obb12\obb12\obj\Debug\obb12.csproj.AssemblyReference.cache
+C:\Users\Ansar\source\repos\obb12\obb12\obj\Debug\obb12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ansar\source\repos\obb12\obb12\obj\Debug\obb12.Form1.resources
+C:\Users\Ansar\source\repos\obb12\obb12\obj\Debug\obb12.Properties.Resources.resources
+C:\Users\Ansar\source\repos\obb12\obb12\obj\Debug\obb12.csproj.GenerateResource.cache
+C:\Users\Ansar\source\repos\obb12\obb12\obj\Debug\obb12.csproj.CoreCompileInputs.cache
+C:\Users\Ansar\source\repos\obb12\obb12\obj\Debug\obb12.exe
+C:\Users\Ansar\source\repos\obb12\obb12\obj\Debug\obb12.pdb
+C:\Users\narim\OneDrive\Рабочий стол\obb12\obb12\bin\Debug\obb12.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\obb12\obb12\bin\Debug\obb12.exe
+C:\Users\narim\OneDrive\Рабочий стол\obb12\obb12\bin\Debug\obb12.pdb
+C:\Users\narim\OneDrive\Рабочий стол\obb12\obb12\obj\Debug\obb12.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\obb12\obb12\obj\Debug\obb12.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\obb12\obb12\obj\Debug\obb12.Form1.resources
+C:\Users\narim\OneDrive\Рабочий стол\obb12\obb12\obj\Debug\obb12.Properties.Resources.resources
+C:\Users\narim\OneDrive\Рабочий стол\obb12\obb12\obj\Debug\obb12.csproj.GenerateResource.cache
+C:\Users\narim\OneDrive\Рабочий стол\obb12\obb12\obj\Debug\obb12.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\obb12\obb12\obj\Debug\obb12.exe
+C:\Users\narim\OneDrive\Рабочий стол\obb12\obb12\obj\Debug\obb12.pdb

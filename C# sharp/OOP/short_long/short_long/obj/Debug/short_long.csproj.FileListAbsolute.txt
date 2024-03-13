@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\short_long\short_long\bin\Debug\short_long.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\short_long\short_long\bin\Debug\short_long.exe
+C:\Users\narim\OneDrive\Рабочий стол\short_long\short_long\bin\Debug\short_long.pdb
+C:\Users\narim\OneDrive\Рабочий стол\short_long\short_long\obj\Debug\short_long.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\short_long\short_long\obj\Debug\short_long.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\short_long\short_long\obj\Debug\short_long.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\short_long\short_long\obj\Debug\short_long.exe
+C:\Users\narim\OneDrive\Рабочий стол\short_long\short_long\obj\Debug\short_long.pdb

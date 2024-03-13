@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\ZTJ12__13\ZTJ12__13\bin\Debug\ZTJ12__13.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\ZTJ12__13\ZTJ12__13\bin\Debug\ZTJ12__13.exe
+C:\Users\narim\OneDrive\Рабочий стол\ZTJ12__13\ZTJ12__13\bin\Debug\ZTJ12__13.pdb
+C:\Users\narim\OneDrive\Рабочий стол\ZTJ12__13\ZTJ12__13\obj\Debug\ZTJ12__13.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\ZTJ12__13\ZTJ12__13\obj\Debug\ZTJ12__13.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\ZTJ12__13\ZTJ12__13\obj\Debug\ZTJ12__13.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\ZTJ12__13\ZTJ12__13\obj\Debug\ZTJ12__13.exe
+C:\Users\narim\OneDrive\Рабочий стол\ZTJ12__13\ZTJ12__13\obj\Debug\ZTJ12__13.pdb

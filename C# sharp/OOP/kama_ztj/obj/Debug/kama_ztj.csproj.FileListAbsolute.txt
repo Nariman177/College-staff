@@ -1,0 +1,11 @@
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\kama_ztj\obj\Debug\kama_ztj.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\kama_ztj\obj\Debug\kama_ztj.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\kama_ztj\bin\Debug\kama_ztj.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\kama_ztj\bin\Debug\kama_ztj.exe
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\kama_ztj\bin\Debug\kama_ztj.pdb
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\kama_ztj\obj\Debug\kama_ztj.Form1.resources
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\kama_ztj\obj\Debug\kama_ztj.Properties.Resources.resources
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\kama_ztj\obj\Debug\kama_ztj.csproj.GenerateResource.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\kama_ztj\obj\Debug\kama_ztj.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\kama_ztj\obj\Debug\kama_ztj.exe
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\kama_ztj\obj\Debug\kama_ztj.pdb

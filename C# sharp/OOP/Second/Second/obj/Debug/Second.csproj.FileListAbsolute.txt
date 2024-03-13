@@ -1,0 +1,8 @@
+C:\Users\narim\OneDrive\Рабочий стол\Second\Second\bin\Debug\Second.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\Second\Second\bin\Debug\Second.exe
+C:\Users\narim\OneDrive\Рабочий стол\Second\Second\bin\Debug\Second.pdb
+C:\Users\narim\OneDrive\Рабочий стол\Second\Second\obj\Debug\Second.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\Second\Second\obj\Debug\Second.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\Second\Second\obj\Debug\Second.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\Second\Second\obj\Debug\Second.exe
+C:\Users\narim\OneDrive\Рабочий стол\Second\Second\obj\Debug\Second.pdb

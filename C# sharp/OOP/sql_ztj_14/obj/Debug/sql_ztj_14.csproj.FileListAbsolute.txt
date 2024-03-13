@@ -1,0 +1,11 @@
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\sql_ztj_14\bin\Debug\sql_ztj_14.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\sql_ztj_14\bin\Debug\sql_ztj_14.exe
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\sql_ztj_14\bin\Debug\sql_ztj_14.pdb
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\sql_ztj_14\obj\Debug\sql_ztj_14.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\sql_ztj_14\obj\Debug\sql_ztj_14.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\sql_ztj_14\obj\Debug\sql_ztj_14.Form1.resources
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\sql_ztj_14\obj\Debug\sql_ztj_14.Properties.Resources.resources
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\sql_ztj_14\obj\Debug\sql_ztj_14.csproj.GenerateResource.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\sql_ztj_14\obj\Debug\sql_ztj_14.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\sql_ztj_14\obj\Debug\sql_ztj_14.exe
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\sql_ztj_14\obj\Debug\sql_ztj_14.pdb

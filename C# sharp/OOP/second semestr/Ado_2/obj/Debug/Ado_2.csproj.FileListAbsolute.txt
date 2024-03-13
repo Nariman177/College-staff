@@ -1,0 +1,16 @@
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ooп пара\Ado_2\bin\Debug\Ado_2.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ooп пара\Ado_2\bin\Debug\Ado_2.exe
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ooп пара\Ado_2\bin\Debug\Ado_2.pdb
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ooп пара\Ado_2\obj\Debug\Ado_2.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ooп пара\Ado_2\obj\Debug\Ado_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ooп пара\Ado_2\obj\Debug\Ado_2.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ooп пара\Ado_2\obj\Debug\Ado_2.exe
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ooп пара\Ado_2\obj\Debug\Ado_2.pdb
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\second semestr\Ado_2\bin\Debug\Ado_2.exe.config
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\second semestr\Ado_2\bin\Debug\Ado_2.exe
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\second semestr\Ado_2\bin\Debug\Ado_2.pdb
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\second semestr\Ado_2\obj\Debug\Ado_2.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\second semestr\Ado_2\obj\Debug\Ado_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\second semestr\Ado_2\obj\Debug\Ado_2.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\second semestr\Ado_2\obj\Debug\Ado_2.exe
+C:\Users\narim\OneDrive\Рабочий стол\коллледж\ООП Практика\second semestr\Ado_2\obj\Debug\Ado_2.pdb
